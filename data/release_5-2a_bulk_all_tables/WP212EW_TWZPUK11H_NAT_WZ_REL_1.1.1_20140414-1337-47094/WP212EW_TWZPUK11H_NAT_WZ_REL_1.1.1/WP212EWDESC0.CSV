@@ -1,0 +1,73 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP212EW0001,Count,Person,All categories: Passports held
+WP212EW0002,Count,Person,Europe: Total
+WP212EW0003,Count,Person,Europe: United Kingdom
+WP212EW0004,Count,Person,Europe: Ireland
+WP212EW0005,Count,Person,Europe: Other Europe: Total
+WP212EW0006,Count,Person,Europe: Other Europe: EU countries: Total
+WP212EW0007,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Total
+WP212EW0008,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: France
+WP212EW0009,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Germany
+WP212EW0010,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Italy
+WP212EW0011,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Portugal
+WP212EW0012,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Spain
+WP212EW0013,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Other member countries in March 2001
+WP212EW0014,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Total
+WP212EW0015,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Lithuania
+WP212EW0016,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Poland
+WP212EW0017,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Romania
+WP212EW0018,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Other EU accession countries
+WP212EW0019,Count,Person,Europe: Other Europe: Rest of Europe: Total
+WP212EW0020,Count,Person,Europe: Other Europe: Rest of Europe: Turkey
+WP212EW0021,Count,Person,Europe: Other Europe: Rest of Europe: Other Europe
+WP212EW0022,Count,Person,Africa: Total
+WP212EW0023,Count,Person,Africa: North Africa
+WP212EW0024,Count,Person,Africa: Central and Western Africa: Total
+WP212EW0025,Count,Person,Africa: Central and Western Africa: Ghana
+WP212EW0026,Count,Person,Africa: Central and Western Africa: Nigeria
+WP212EW0027,Count,Person,Africa: Central and Western Africa: Other Central and Western Africa
+WP212EW0028,Count,Person,Africa: South and Eastern Africa: Total
+WP212EW0029,Count,Person,Africa: South and Eastern Africa: Kenya
+WP212EW0030,Count,Person,Africa: South and Eastern Africa: Somalia
+WP212EW0031,Count,Person,Africa: South and Eastern Africa: South Africa
+WP212EW0032,Count,Person,Africa: South and Eastern Africa: Zimbabwe
+WP212EW0033,Count,Person,Africa: South and Eastern Africa: Other South and Eastern Africa
+WP212EW0034,Count,Person,Middle East and Asia: Total
+WP212EW0035,Count,Person,Middle East and Asia: Middle East: Total
+WP212EW0036,Count,Person,Middle East and Asia: Middle East: Iran
+WP212EW0037,Count,Person,Middle East and Asia: Middle East: Iraq
+WP212EW0038,Count,Person,Middle East and Asia: Middle East: Other Middle East
+WP212EW0039,Count,Person,Middle East and Asia: Eastern Asia: Total
+WP212EW0040,Count,Person,Middle East and Asia: Eastern Asia: China
+WP212EW0041,Count,Person,Middle East and Asia: Eastern Asia: Hong Kong (Special Administrative Region of China)
+WP212EW0042,Count,Person,Middle East and Asia: Eastern Asia: Japan
+WP212EW0043,Count,Person,Middle East and Asia: Eastern Asia: Other Eastern Asia
+WP212EW0044,Count,Person,Middle East and Asia: Southern Asia: Total
+WP212EW0045,Count,Person,Middle East and Asia: Southern Asia: Afghanistan
+WP212EW0046,Count,Person,Middle East and Asia: Southern Asia: Bangladesh
+WP212EW0047,Count,Person,Middle East and Asia: Southern Asia: India
+WP212EW0048,Count,Person,Middle East and Asia: Southern Asia: Pakistan
+WP212EW0049,Count,Person,Middle East and Asia: Southern Asia: Sri Lanka
+WP212EW0050,Count,Person,Middle East and Asia: Southern Asia: Other Southern Asia
+WP212EW0051,Count,Person,Middle East and Asia: South-East Asia: Total
+WP212EW0052,Count,Person,Middle East and Asia: South-East Asia: Malaysia
+WP212EW0053,Count,Person,Middle East and Asia: South-East Asia: Philippines
+WP212EW0054,Count,Person,Middle East and Asia: South-East Asia: Singapore
+WP212EW0055,Count,Person,Middle East and Asia: South-East Asia: Other South-East Asia
+WP212EW0056,Count,Person,Middle East and Asia: Central Asia
+WP212EW0057,Count,Person,The Americas and the Caribbean: Total
+WP212EW0058,Count,Person,The Americas and the Caribbean: North America: Total
+WP212EW0059,Count,Person,The Americas and the Caribbean: North America: Canada
+WP212EW0060,Count,Person,The Americas and the Caribbean: North America: United States
+WP212EW0061,Count,Person,The Americas and the Caribbean: Central America
+WP212EW0062,Count,Person,The Americas and the Caribbean: South America
+WP212EW0063,Count,Person,The Americas and the Caribbean: The Caribbean: Total
+WP212EW0064,Count,Person,The Americas and the Caribbean: The Caribbean: Jamaica
+WP212EW0065,Count,Person,The Americas and the Caribbean: The Caribbean: Other Caribbean
+WP212EW0066,Count,Person,Antarctica and Oceania: Total
+WP212EW0067,Count,Person,Antarctica and Oceania: Australasia: Total
+WP212EW0068,Count,Person,Antarctica and Oceania: Australasia: Australia
+WP212EW0069,Count,Person,Antarctica and Oceania: Australasia: New Zealand
+WP212EW0070,Count,Person,Antarctica and Oceania: Other Oceania
+WP212EW0071,Count,Person,British Overseas Territories
+WP212EW0072,Count,Person,No passport held

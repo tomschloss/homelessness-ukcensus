@@ -1,0 +1,9 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP601EW0001,Count,Person,Pob categori: Statws cyflogaeth
+WP601EW0002,Count,Person,Gweithiwr cyflogedig: Rhan amser
+WP601EW0003,Count,Person,Gweithiwr cyflogedig: Llawn amser
+WP601EW0004,Count,Person,Yn hunan-gyflogedig ac yn cyflogi gweithwyr: Rhan-amser
+WP601EW0005,Count,Person,Yn hunan-gyflogedig ac yn cyflogi gweithwyr: Llawn-amser
+WP601EW0006,Count,Person,Yn hunan-gyflogedig ond heb fod yn cyflogi gweithwyr: Rhan-amser
+WP601EW0007,Count,Person,Yn hunan-gyflogedig ond ond heb fod yn cyflogi gweithwyr: Llawn-amser
+WP601EW0008,Count,Person,Myfyriwr amser-llawn

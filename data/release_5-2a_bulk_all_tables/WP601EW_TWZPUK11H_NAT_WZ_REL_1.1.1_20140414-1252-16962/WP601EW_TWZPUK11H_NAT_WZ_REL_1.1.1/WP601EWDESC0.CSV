@@ -1,0 +1,9 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP601EW0001,Count,Person,All categories: Employment status
+WP601EW0002,Count,Person,Employee: Part-time
+WP601EW0003,Count,Person,Employee: Full-time
+WP601EW0004,Count,Person,Self-employed with employees: Part-time
+WP601EW0005,Count,Person,Self-employed with employees: Full-time
+WP601EW0006,Count,Person,Self-employed without employees: Part-time
+WP601EW0007,Count,Person,Self-employed without employees: Full-time
+WP601EW0008,Count,Person,Full-time student

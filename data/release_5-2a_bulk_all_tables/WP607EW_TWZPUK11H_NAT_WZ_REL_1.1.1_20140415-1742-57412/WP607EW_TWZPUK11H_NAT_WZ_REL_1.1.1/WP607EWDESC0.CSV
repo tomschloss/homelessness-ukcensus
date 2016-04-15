@@ -1,0 +1,51 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP607EW0001,Count,Person,All categories: NS-SeC
+WP607EW0002,Count,Person,"1. Higher managerial, administrative and professional occupations"
+WP607EW0003,Count,Person,1.1 Large employers and higher managerial and administrative occupations
+WP607EW0004,Count,Person,L1 Employers in large establishments
+WP607EW0005,Count,Person,L2 Higher managerial and administrative occupations
+WP607EW0006,Count,Person,1.2 Higher professional occupations
+WP607EW0007,Count,Person,L3.1 Traditional employees
+WP607EW0008,Count,Person,L3.2 New employees
+WP607EW0009,Count,Person,L3.3 Traditional self-employed
+WP607EW0010,Count,Person,L3.4 New self-employed
+WP607EW0011,Count,Person,"2. Lower managerial, administrative and professional occupations"
+WP607EW0012,Count,Person,L4 Lower professional and higher technical occupations
+WP607EW0013,Count,Person,L4.1 Traditional employees
+WP607EW0014,Count,Person,L4.2 New employees
+WP607EW0015,Count,Person,L4.3 Traditional self-employed
+WP607EW0016,Count,Person,L4.4 New self-employed
+WP607EW0017,Count,Person,L5 Lower managerial and administrative occupations
+WP607EW0018,Count,Person,L6 Higher supervisory occupations
+WP607EW0019,Count,Person,3. Intermediate occupations
+WP607EW0020,Count,Person,L7.1 Intermediate clerical and administrative occupations
+WP607EW0021,Count,Person,L7.2 Intermediate sales and service occupations
+WP607EW0022,Count,Person,L7.3 Intermediate technical and auxiliary occupations
+WP607EW0023,Count,Person,L7.4 Intermediate engineering occupations
+WP607EW0024,Count,Person,4. Small employers and own account workers
+WP607EW0025,Count,Person,L8 Employers in small establishments
+WP607EW0026,Count,Person,"L8.1 Employers in small establishments in industry, commerce, services etc."
+WP607EW0027,Count,Person,L8.2 Employers in small establishments in agriculture
+WP607EW0028,Count,Person,L9 Own account workers
+WP607EW0029,Count,Person,L9.1 Own account workers (non-professional)
+WP607EW0030,Count,Person,L9.2 Own account workers (agriculture)
+WP607EW0031,Count,Person,5. Lower supervisory and technical occupations
+WP607EW0032,Count,Person,L10 Lower supervisory occupations
+WP607EW0033,Count,Person,L11 Lower technical occupations
+WP607EW0034,Count,Person,L11.1 Lower technical craft occupations
+WP607EW0035,Count,Person,L11.2 Lower technical process operative occupations
+WP607EW0036,Count,Person,6. Semi-routine occupations
+WP607EW0037,Count,Person,L12.1 Semi-routine sales occupations
+WP607EW0038,Count,Person,L12.2 Semi-routine service occupations
+WP607EW0039,Count,Person,L12.3 Semi-routine technical occupations
+WP607EW0040,Count,Person,L12.4 Semi-routine operative occupations
+WP607EW0041,Count,Person,L12.5 Semi-routine agricultural occupations
+WP607EW0042,Count,Person,L12.6 Semi-routine clerical occupations
+WP607EW0043,Count,Person,L12.7 Semi-routine childcare occupations
+WP607EW0044,Count,Person,7. Routine occupations
+WP607EW0045,Count,Person,L13.1 Routine sales and service occupations
+WP607EW0046,Count,Person,L13.2 Routine production occupations
+WP607EW0047,Count,Person,L13.3 Routine technical occupations
+WP607EW0048,Count,Person,L13.4 Routine operative occupations
+WP607EW0049,Count,Person,L13.5 Routine agricultural occupations
+WP607EW0050,Count,Person,L15 Full-time students

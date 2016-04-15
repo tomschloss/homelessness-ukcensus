@@ -1,0 +1,7 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP302EW0001,Count,Person,All categories: General health
+WP302EW0002,Count,Person,Very good health
+WP302EW0003,Count,Person,Good health
+WP302EW0004,Count,Person,Fair health
+WP302EW0005,Count,Person,Bad health
+WP302EW0006,Count,Person,Very bad health

@@ -1,0 +1,79 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP203EW0001,Count,Person,All categories: Country of birth
+WP203EW0002,Count,Person,Europe: Total
+WP203EW0003,Count,Person,Europe: United Kingdom: Total
+WP203EW0004,Count,Person,Europe: United Kingdom: England
+WP203EW0005,Count,Person,Europe: United Kingdom: Northern Ireland
+WP203EW0006,Count,Person,Europe: United Kingdom: Scotland
+WP203EW0007,Count,Person,Europe: United Kingdom: Wales
+WP203EW0008,Count,Person,Europe: Great Britain not otherwise specified
+WP203EW0009,Count,Person,Europe: United Kingdom not otherwise specified
+WP203EW0010,Count,Person,Europe: Guernsey
+WP203EW0011,Count,Person,Europe: Jersey
+WP203EW0012,Count,Person,Europe: Channel Islands not otherwise specified
+WP203EW0013,Count,Person,Europe: Isle of Man
+WP203EW0014,Count,Person,Europe: Ireland
+WP203EW0015,Count,Person,Europe: Other Europe: Total
+WP203EW0016,Count,Person,Europe: Other Europe: EU countries: Total
+WP203EW0017,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Total
+WP203EW0018,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: France
+WP203EW0019,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Germany
+WP203EW0020,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Italy
+WP203EW0021,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Portugal
+WP203EW0022,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Spain (including Canary Islands)
+WP203EW0023,Count,Person,Europe: Other Europe: EU countries: Member countries in March 2001: Other member countries in March 2001
+WP203EW0024,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Total
+WP203EW0025,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Lithuania
+WP203EW0026,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Poland
+WP203EW0027,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Romania
+WP203EW0028,Count,Person,Europe: Other Europe: EU countries: Accession countries April 2001 to March 2011: Other EU accession countries
+WP203EW0029,Count,Person,Europe: Other Europe: Rest of Europe: Total
+WP203EW0030,Count,Person,Europe: Other Europe: Rest of Europe: Turkey
+WP203EW0031,Count,Person,Europe: Other Europe: Rest of Europe: Other Europe
+WP203EW0032,Count,Person,Africa: Total
+WP203EW0033,Count,Person,Africa: North Africa
+WP203EW0034,Count,Person,Africa: Central and Western Africa: Total
+WP203EW0035,Count,Person,Africa: Central and Western Africa: Ghana
+WP203EW0036,Count,Person,Africa: Central and Western Africa: Nigeria
+WP203EW0037,Count,Person,Africa: Central and Western Africa: Other Central and Western Africa
+WP203EW0038,Count,Person,Africa: South and Eastern Africa: Total
+WP203EW0039,Count,Person,Africa: South and Eastern Africa: Kenya
+WP203EW0040,Count,Person,Africa: South and Eastern Africa: Somalia
+WP203EW0041,Count,Person,Africa: South and Eastern Africa: South Africa
+WP203EW0042,Count,Person,Africa: South and Eastern Africa: Zimbabwe
+WP203EW0043,Count,Person,Africa: South and Eastern Africa: Other South and Eastern Africa
+WP203EW0044,Count,Person,Africa: Africa not otherwise specified
+WP203EW0045,Count,Person,Middle East and Asia: Total
+WP203EW0046,Count,Person,Middle East and Asia: Middle East: Total
+WP203EW0047,Count,Person,Middle East and Asia: Middle East: Iran
+WP203EW0048,Count,Person,Middle East and Asia: Middle East: Other Middle East
+WP203EW0049,Count,Person,Middle East and Asia: Eastern Asia: Total
+WP203EW0050,Count,Person,Middle East and Asia: Eastern Asia: China
+WP203EW0051,Count,Person,Middle East and Asia: Eastern Asia: Hong Kong (Special Administrative Region of China)
+WP203EW0052,Count,Person,Middle East and Asia: Eastern Asia: Other Eastern Asia
+WP203EW0053,Count,Person,Middle East and Asia: Southern Asia: Total
+WP203EW0054,Count,Person,Middle East and Asia: Southern Asia: Bangladesh
+WP203EW0055,Count,Person,Middle East and Asia: Southern Asia: India
+WP203EW0056,Count,Person,Middle East and Asia: Southern Asia: Pakistan
+WP203EW0057,Count,Person,Middle East and Asia: Southern Asia: Sri Lanka
+WP203EW0058,Count,Person,Middle East and Asia: Southern Asia: Other Southern Asia
+WP203EW0059,Count,Person,Middle East and Asia: South-East Asia: Total
+WP203EW0060,Count,Person,Middle East and Asia: South-East Asia: Philippines
+WP203EW0061,Count,Person,Middle East and Asia: South-East Asia: Other South-East Asia
+WP203EW0062,Count,Person,Middle East and Asia: Central Asia
+WP203EW0063,Count,Person,The Americas and the Caribbean: Total
+WP203EW0064,Count,Person,The Americas and the Caribbean: North America: Total
+WP203EW0065,Count,Person,The Americas and the Caribbean: North America: United States
+WP203EW0066,Count,Person,The Americas and the Caribbean: North America: Other North America
+WP203EW0067,Count,Person,The Americas and the Caribbean: Central America
+WP203EW0068,Count,Person,The Americas and the Caribbean: South America
+WP203EW0069,Count,Person,The Americas and the Caribbean: The Caribbean: Total
+WP203EW0070,Count,Person,The Americas and the Caribbean: The Caribbean: Jamaica
+WP203EW0071,Count,Person,The Americas and the Caribbean: The Caribbean: Other Caribbean
+WP203EW0072,Count,Person,Antarctica and Oceania: Total
+WP203EW0073,Count,Person,Antarctica and Oceania: Antarctica
+WP203EW0074,Count,Person,Antarctica and Oceania: Australasia: Total
+WP203EW0075,Count,Person,Antarctica and Oceania: Australasia: Australia
+WP203EW0076,Count,Person,Antarctica and Oceania: Australasia: Other Australasia
+WP203EW0077,Count,Person,Antarctica and Oceania: Other Oceania
+WP203EW0078,Count,Person,Other

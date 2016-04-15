@@ -1,0 +1,15 @@
+ColumnVariableCode,ColumnVariableMeasurementUnitValue,ColumnVariableStatisticalUnitValue,ColumnVariableCodeValue,ColumnVariableParentCodeValue
+GeographyCode,,,Geography Code
+WP702EW0001,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_AGGDTWPEW11@5f@POWPEW11@5f@T011B|UDF@3a@AGGDTWPEW11_POWPEW11@3a@@20@Distance@20@travelled@20@to@20@work@20@and@20@place@20@of@20@work@20@indicator_@23@@23@va@2e@rcd@2e@rpt@2e@AGGDTWPEW11@5f@POWPEW11@5f@T011B@2e@URQJvMRF,
+WP702EW0002,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_AGGDTWPEW11@5f@POWPEW11@5f@T011B|UDF@3a@AGGDTWPEW11_POWPEW11@3a@@20@Distance@20@travelled@20@to@20@work@20@and@20@place@20@of@20@work@20@indicator_Less@20@than@20@2km,
+WP702EW0003,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_AGGDTWPEW11@5f@POWPEW11@5f@T011B|UDF@3a@AGGDTWPEW11_POWPEW11@3a@@20@Distance@20@travelled@20@to@20@work@20@and@20@place@20@of@20@work@20@indicator_2km@20@to@20@less@20@than@20@5km,
+WP702EW0004,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_AGGDTWPEW11@5f@POWPEW11@5f@T011B|UDF@3a@AGGDTWPEW11_POWPEW11@3a@@20@Distance@20@travelled@20@to@20@work@20@and@20@place@20@of@20@work@20@indicator_5km@20@to@20@less@20@than@20@10km,
+WP702EW0005,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_AGGDTWPEW11@5f@POWPEW11@5f@T011B|UDF@3a@AGGDTWPEW11_POWPEW11@3a@@20@Distance@20@travelled@20@to@20@work@20@and@20@place@20@of@20@work@20@indicator_10km@20@to@20@less@20@than@20@20km,
+WP702EW0006,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_AGGDTWPEW11@5f@POWPEW11@5f@T011B|UDF@3a@AGGDTWPEW11_POWPEW11@3a@@20@Distance@20@travelled@20@to@20@work@20@and@20@place@20@of@20@work@20@indicator_20km@20@to@20@less@20@than@20@30km,
+WP702EW0007,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_AGGDTWPEW11@5f@POWPEW11@5f@T011B|UDF@3a@AGGDTWPEW11_POWPEW11@3a@@20@Distance@20@travelled@20@to@20@work@20@and@20@place@20@of@20@work@20@indicator_30km@20@to@20@less@20@than@20@40km,
+WP702EW0008,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_AGGDTWPEW11@5f@POWPEW11@5f@T011B|UDF@3a@AGGDTWPEW11_POWPEW11@3a@@20@Distance@20@travelled@20@to@20@work@20@and@20@place@20@of@20@work@20@indicator_40km@20@to@20@less@20@than@20@60km,
+WP702EW0009,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_AGGDTWPEW11@5f@POWPEW11@5f@T011B|UDF@3a@AGGDTWPEW11_POWPEW11@3a@@20@Distance@20@travelled@20@to@20@work@20@and@20@place@20@of@20@work@20@indicator_60km@20@and@20@over,
+WP702EW0010,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_AGGDTWPEW11@5f@POWPEW11@5f@T011B|UDF@3a@AGGDTWPEW11_POWPEW11@3a@@20@Distance@20@travelled@20@to@20@work@20@and@20@place@20@of@20@work@20@indicator_Work@20@mainly@20@at@20@or@20@from@20@home,
+WP702EW0011,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_AGGDTWPEW11@5f@POWPEW11@5f@T011B|UDF@3a@AGGDTWPEW11_POWPEW11@3a@@20@Distance@20@travelled@20@to@20@work@20@and@20@place@20@of@20@work@20@indicator_Other,
+WP702EW0012,sum,__RESERVED__,dtwpew11 sum|dtwpew11@20@sum_CL_Total@20@distance@20@@28@km@29@,
+WP702EW0013,average,__RESERVED__,person_dtwpew11 avge|person_dtwpew11@20@avge_CL_Average@20@distance@20@@28@km@29@,

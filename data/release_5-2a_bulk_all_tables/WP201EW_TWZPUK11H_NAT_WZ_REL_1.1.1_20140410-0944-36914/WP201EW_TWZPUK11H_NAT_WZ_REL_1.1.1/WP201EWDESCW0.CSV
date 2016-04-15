@@ -1,0 +1,20 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP201EW0001,Count,Person,Pob categori: Grŵp ethnig
+WP201EW0002,Count,Person,Gwyn: Seisnig/Cymreig/Albanaidd/Gwyddelig Gogledd Iwerddon/Prydeinig
+WP201EW0003,Count,Person,Gwyn: Gwyddelig
+WP201EW0004,Count,Person,Gwyn: Sipsiwn neu Deithiwr Gwyddelig
+WP201EW0005,Count,Person,Gwyn: Gwyn Arall
+WP201EW0006,Count,Person,Cymysg/grwpiau aml-ethnig: Gwyn a Du Caribïaidd
+WP201EW0007,Count,Person,Cymysg/grwpiau aml-ethnig: Gwyn a Du Affricanaidd
+WP201EW0008,Count,Person,Cymysg/grwpiau aml-ethnig: Gwyn ac Asiaidd
+WP201EW0009,Count,Person,Cymysg/grwpiau aml-ethnig: Cymysg Arall
+WP201EW0010,Count,Person,Asiaidd/Asiaidd Prydeinig: Indiaidd
+WP201EW0011,Count,Person,Asiaidd/Asiaidd Prydeinig: Pacistanaidd
+WP201EW0012,Count,Person,Asiaidd/Asiaidd Prydeinig: Bangladeshaidd
+WP201EW0013,Count,Person,Asiaidd/Asiaidd Prydeinig: Tsieineaidd
+WP201EW0014,Count,Person,Asiaidd/Asiaidd Prydeinig: Asiaidd Arall
+WP201EW0015,Count,Person,Du/Affricanaidd/Caribïaidd/Du Prydeinig: Affricanaidd
+WP201EW0016,Count,Person,Du/Affricanaidd/Caribïaidd/Du Prydeinig: Caribïaidd
+WP201EW0017,Count,Person,Du/Affricanaidd/Caribïaidd/Du Prydeinig: Du Arall
+WP201EW0018,Count,Person,Grŵp ethnig arall: Arabaidd
+WP201EW0019,Count,Person,Grŵp ethnig arall: Unrhyw grŵp ethnig arall

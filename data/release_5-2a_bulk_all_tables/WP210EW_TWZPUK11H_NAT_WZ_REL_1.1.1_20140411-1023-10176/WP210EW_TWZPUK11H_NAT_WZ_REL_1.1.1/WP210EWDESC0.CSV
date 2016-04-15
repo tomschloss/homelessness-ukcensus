@@ -1,0 +1,11 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP210EW0001,Count,Person,All categories: Religion
+WP210EW0002,Count,Person,Christian
+WP210EW0003,Count,Person,Buddhist
+WP210EW0004,Count,Person,Hindu
+WP210EW0005,Count,Person,Jewish
+WP210EW0006,Count,Person,Muslim
+WP210EW0007,Count,Person,Sikh
+WP210EW0008,Count,Person,Other religion
+WP210EW0009,Count,Person,No religion
+WP210EW0010,Count,Person,Religion not stated

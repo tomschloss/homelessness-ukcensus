@@ -1,0 +1,9 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP501EW0001,Count,Person,All categories: Highest level of qualification
+WP501EW0002,Count,Person,No qualifications
+WP501EW0003,Count,Person,Level 1 qualifications
+WP501EW0004,Count,Person,Level 2 qualifications
+WP501EW0005,Count,Person,Apprenticeship
+WP501EW0006,Count,Person,Level 3 qualifications
+WP501EW0007,Count,Person,Level 4 qualifications and above
+WP501EW0008,Count,Person,Other qualifications

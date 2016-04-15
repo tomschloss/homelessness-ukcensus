@@ -1,0 +1,7 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP803EW0001,Count,Person,Pob categori: Cyfnod preswylio yn y DU
+WP803EW0002,Count,Person,Ganed yn y DU
+WP803EW0003,Count,Person,Preswylio yn y DU: Llai na 2 flynedd
+WP803EW0004,Count,Person,Preswylio yn y DU: 2 flynedd neu fwy ond llai na 5 mlynedd
+WP803EW0005,Count,Person,Preswylio yn y DU: 5 mlynedd neu fwy ond llai na 10 mlynedd
+WP803EW0006,Count,Person,Preswylio yn y DU: 10 mlynedd neu fwy

@@ -1,0 +1,9 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP206WA0001,Count,Person,Pob preswylydd arferol rhwng 16 a 74 oed (Poblogaeth y gweithle)
+WP206WA0002,Count,Person,Dim sgiliau Cymraeg
+WP206WA0003,Count,Person,Yn gallu deall Cymraeg ar lafar
+WP206WA0004,Count,Person,Yn gallu siarad Cymraeg
+WP206WA0005,Count,Person,Yn gallu darllen Cymraeg
+WP206WA0006,Count,Person,Yn gallu ysgrifennu Cymraeg
+WP206WA0007,Count,Person,"Gallu siarad, darllen ac ysgrifennu Cymraeg"
+WP206WA0008,Count,Person,Yn gweithio yng Nghymru ond yn byw yn Lloegr

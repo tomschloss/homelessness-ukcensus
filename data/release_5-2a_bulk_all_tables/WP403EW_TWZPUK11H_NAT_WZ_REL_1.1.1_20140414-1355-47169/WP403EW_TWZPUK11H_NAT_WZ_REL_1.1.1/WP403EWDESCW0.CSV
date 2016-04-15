@@ -1,0 +1,15 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP403EW0001,Count,Person,Pob categori: Deiliadaeth
+WP403EW0002,Count,Person,Yn berchen arno: Cyfanswm
+WP403EW0003,Count,Person,Yn berchen arno: Yn berchen arno'n gyfan gwbl
+WP403EW0004,Count,Person,Yn berchen arno: Yn berchen arno gyda morgais neu fenthyciad
+WP403EW0005,Count,Person,Rhan-berchenogaeth (yn berchen arno'n rhannol ac yn ei rentu'n rhannol)
+WP403EW0006,Count,Person,Llety cymdeithasol a rentir: Cyfanswm
+WP403EW0007,Count,Person,Rhent cymdeithasol: Ei rentu gan y cyngor (Awdurdod Lleol)
+WP403EW0008,Count,Person,Rhent cymdeithasol: Rhent cymdeithasol arall
+WP403EW0009,Count,Person,Wedi'i rentu'n breifat: Cyfanswm
+WP403EW0010,Count,Person,Wedi'i rentu'n breifat: Landlord preifat neu asiantaeth gosod tai
+WP403EW0011,Count,Person,"Wedi'i rentu'n breifat: Cyflogwr un o aelodau'r cartref,"
+WP403EW0012,Count,Person,Wedi'i rentu'n breifat: Perthynas neu ffrind un o aelodau'r cartref
+WP403EW0013,Count,Person,Wedi'i rentu'n breifat: Arall
+WP403EW0014,Count,Person,Byw heb dalu rhent

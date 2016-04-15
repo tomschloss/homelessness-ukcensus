@@ -1,0 +1,4 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP102EW0001,Count,Person,Pob preswylydd arferol rhwng 16 a 74 oed (Poblogaeth y gweithle)
+WP102EW0002,Sum,Arwynebedd (hectarau),Arwynebedd (Hectarau)
+WP102EW0003,Cymhareb,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Dwysedd (nifer y bobl fesul hectar)

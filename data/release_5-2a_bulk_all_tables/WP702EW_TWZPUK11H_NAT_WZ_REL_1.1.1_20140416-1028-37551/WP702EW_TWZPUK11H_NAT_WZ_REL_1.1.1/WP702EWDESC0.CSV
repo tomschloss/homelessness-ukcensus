@@ -1,0 +1,14 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP702EW0001,Count,Person,All categories: Distance travelled to work
+WP702EW0002,Count,Person,Less than 2km
+WP702EW0003,Count,Person,2km to less than 5km
+WP702EW0004,Count,Person,5km to less than 10km
+WP702EW0005,Count,Person,10km to less than 20km
+WP702EW0006,Count,Person,20km to less than 30km
+WP702EW0007,Count,Person,30km to less than 40km
+WP702EW0008,Count,Person,40km to less than 60km
+WP702EW0009,Count,Person,60km and over
+WP702EW0010,Count,Person,Work mainly at or from home
+WP702EW0011,Count,Person,No fixed place
+WP702EW0012,Sum,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Total distance (km)
+WP702EW0013,Average,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Average distance (km)

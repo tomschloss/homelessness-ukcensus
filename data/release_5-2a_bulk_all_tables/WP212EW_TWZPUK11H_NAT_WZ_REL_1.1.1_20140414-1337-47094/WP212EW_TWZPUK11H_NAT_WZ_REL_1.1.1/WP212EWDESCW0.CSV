@@ -1,0 +1,73 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP212EW0001,Count,Person,Pob categori: Pasbortau a ddelir
+WP212EW0002,Count,Person,Ewrop: Cyfanswm
+WP212EW0003,Count,Person,Ewrop: Y Deyrnas Unedig
+WP212EW0004,Count,Person,Ewrop: Iwerddon
+WP212EW0005,Count,Person,Ewrop: Ewrop Arall: Cyfanswm
+WP212EW0006,Count,Person,Ewrop: Ewrop arall: Gwledydd yr UE: Cyfanswm
+WP212EW0007,Count,Person,Ewrop: Ewrop arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001: Cyfanswm
+WP212EW0008,Count,Person,Ewrop: Ewrop arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001: Ffrainc
+WP212EW0009,Count,Person,Ewrop: Ewrop arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001: Yr Almaen
+WP212EW0010,Count,Person,Ewrop: Ewrop arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001: Yr Eidal
+WP212EW0011,Count,Person,Ewrop: Ewrop arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001: Portiwgal
+WP212EW0012,Count,Person,Ewrop: Ewrop arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001: Sbaen
+WP212EW0013,Count,Person,Ewrop: Ewrop arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001: Aelod-wladwriaethau eraill ym mis Mawrth 2001
+WP212EW0014,Count,Person,Ewrop: Ewrop arall: Gwledydd yr UE: Gwledydd sydd wedi'u derbyn rhwng mis Ebrill 2001 a mis Mawrth 2011: Cyfanswm
+WP212EW0015,Count,Person,Ewrop: Ewrop arall: Gwledydd yr UE: Gwledydd sydd wedi'u derbyn rhwng mis Ebrill 2001 a mis Mawrth 2011: Lithwania
+WP212EW0016,Count,Person,Ewrop: Ewrop arall: Gwledydd yr UE: Gwledydd sydd wedi'u derbyn rhwng mis Ebrill 2001 a mis Mawrth 2011: Gwlad Pwyl
+WP212EW0017,Count,Person,Ewrop: Ewrop arall: Gwledydd yr UE: Gwledydd sydd wedi'u derbyn rhwng mis Ebrill 2001 a mis Mawrth 2011: Rwmania
+WP212EW0018,Count,Person,Ewrop: Ewrop arall: Gwledydd yr UE: Gwledydd sydd wedi'u derbyn rhwng mis Ebrill 2001 a mis Mawrth 2011: Gwledydd eraill o'r UE sydd wedi'u derbyn
+WP212EW0019,Count,Person,Ewrop: Ewrop arall: Gweddill Ewrop: Cyfanswm
+WP212EW0020,Count,Person,Ewrop: Ewrop arall: Gweddill Ewrop: Twrci
+WP212EW0021,Count,Person,Ewrop: Ewrop arall: Gweddill Ewrop: Ewrop arall
+WP212EW0022,Count,Person,Affrica: Cyfanswm
+WP212EW0023,Count,Person,Affrica: Gogledd Affrica
+WP212EW0024,Count,Person,Affrica: Canol a Gorllewin Affrica: Cyfanswm
+WP212EW0025,Count,Person,Affrica: Canol a Gorllewin Affrica: Ghana
+WP212EW0026,Count,Person,Affrica: Canol a Gorllewin Affrica: Nigeria
+WP212EW0027,Count,Person,Affrica: Canol a Gorllewin Affrica: Canol a Gorllewin Affrica arall
+WP212EW0028,Count,Person,Affrica: De a Dwyrain Affrica: Cyfanswm
+WP212EW0029,Count,Person,Affrica: De a Dwyrain Affrica: Kenya
+WP212EW0030,Count,Person,Affrica: De a Dwyrain Affrica: Somalia
+WP212EW0031,Count,Person,Affrica: De a Dwyrain Affrica: De Affrica
+WP212EW0032,Count,Person,Affrica: De a Dwyrain Affrica: Simbabwe
+WP212EW0033,Count,Person,Affrica: De a Dwyrain Affrica: De a Dwyrain Affrica arall
+WP212EW0034,Count,Person,Y Dwyrain Canol ac Asia: Cyfanswm
+WP212EW0035,Count,Person,Y Dwyrain Canol ac Asia: Y Dwyrain Canol: Cyfanswm
+WP212EW0036,Count,Person,Y Dwyrain Canol ac Asia: Y Dwyrain Canol: Iran
+WP212EW0037,Count,Person,Y Dwyrain Canol ac Asia: Y Dwyrain Canol: Irac
+WP212EW0038,Count,Person,Y Dwyrain Canol ac Asia: Y Dwyrain Canol: Y Dwyrain Canol arall
+WP212EW0039,Count,Person,Y Dwyrain Canol ac Asia: Y Dwryrain Canol: Cyfanswm
+WP212EW0040,Count,Person,Y Dwyrain Canol ac Asia: Dwyrain Asia: Tsieina
+WP212EW0041,Count,Person,Y Dwyrain Canol ac Asia: Dwyrain Asia: Hong Kong (Rhanbarth Weinyddol Arbennig Tsieina)
+WP212EW0042,Count,Person,Y Dwyrain Canol ac Asia: Dwyrain Asia: Siapan
+WP212EW0043,Count,Person,Y Dwyrain Canol ac Asia: Dwyrain Asia: Dwyrain Asia arall
+WP212EW0044,Count,Person,Y Dwyrain Canol ac Asia: De Asia: Cyfanswm
+WP212EW0045,Count,Person,Y Dwyrain Canol ac Asia: De Asia: Affganistan
+WP212EW0046,Count,Person,Y Dwyrain Canol ac Asia: De Asia: Bangladesh
+WP212EW0047,Count,Person,Y Dwyrain Canol ac Asia: De Asia: India
+WP212EW0048,Count,Person,Y Dwyrain Canol ac Asia: De Asia: Pacistan
+WP212EW0049,Count,Person,Y Dwyrain Canol ac Asia: De Asia: Sri Lanka
+WP212EW0050,Count,Person,Y Dwyrain Canol ac Asia: De Asia: De Asia arall
+WP212EW0051,Count,Person,Y Dwyrain Canol ac Asia: De-ddwyrain Asia: Cyfanswm
+WP212EW0052,Count,Person,Y Dwyrain Canol ac Asia: De-ddwyrain Asia: Malaysia
+WP212EW0053,Count,Person,Y Dwyrain Canol ac Asia: De-ddwyrain Asia: Ynysoedd Philippines
+WP212EW0054,Count,Person,Y Dwyrain Canol ac Asia: De-ddwyrain Asia: Singapôr
+WP212EW0055,Count,Person,Y Dwyrain Canol ac Asia: De-ddwyrain Asia: De-ddwyrain Asia arall
+WP212EW0056,Count,Person,Y Dwyrain Canol ac Asia: Canol Asia
+WP212EW0057,Count,Person,Cyfandiroedd America a'r Caribî: Cyfanswm
+WP212EW0058,Count,Person,Cyfandiroedd America a'r Caribî: Gogledd America: Cyfanswm
+WP212EW0059,Count,Person,Cyfandiroedd America a'r Caribî: Gogledd America: Canada
+WP212EW0060,Count,Person,Cyfandiroedd America a'r Caribî: Gogledd America: Yr Unol Daleithiau
+WP212EW0061,Count,Person,Cyfandiroedd America a'r Caribî: Canolbarth America
+WP212EW0062,Count,Person,Cyfandiroedd America a'r Caribî: De America
+WP212EW0063,Count,Person,Cyfandiroedd America a'r Caribî: Y Caribî: Cyfanswm
+WP212EW0064,Count,Person,Cyfandiroedd America a'r Caribî: Y Caribî: Jamaica
+WP212EW0065,Count,Person,Cyfandiroedd America a'r Caribî: Y Caribî: Y Caribî arall
+WP212EW0066,Count,Person,Antarctica ac Ynys y De: Cyfanswm
+WP212EW0067,Count,Person,Antarctica ac Ynys y De: Awstralasia: Cyfanswm
+WP212EW0068,Count,Person,Antarctica ac Ynys y De: Awstralasia: Awstralia
+WP212EW0069,Count,Person,Antarctica ac Ynys y De: Awstralasia: Seland Newydd
+WP212EW0070,Count,Person,Antarctica ac Ynys y De: Ynys y De arall
+WP212EW0071,Count,Person,Tiriogaethau Tramor Prydain
+WP212EW0072,Count,Person,Dim pasbort

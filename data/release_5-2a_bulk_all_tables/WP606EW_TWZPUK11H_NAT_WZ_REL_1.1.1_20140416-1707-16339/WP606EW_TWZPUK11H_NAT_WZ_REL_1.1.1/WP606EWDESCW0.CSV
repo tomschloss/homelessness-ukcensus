@@ -1,0 +1,126 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP606EW0001,Count,Person,Pob categori: Galwedigaeth
+WP606EW0002,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion"
+WP606EW0003,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     11 Rheolwyr a chyfarwyddwyr corfforaethol"
+WP606EW0004,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     11 Rheolwyr a chyfarwyddwyr corfforaethol;         111 Prif weithredwyr ac uwch swyddogion"
+WP606EW0005,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     11 Rheolwyr a chyfarwyddwyr corfforaethol;         112 Rheolwyr a chyfarwyddwyr cynhyrchu"
+WP606EW0006,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     11 Rheolwyr a chyfarwyddwyr corfforaethol;         113 Rheolwyr a chyfarwyddwyr swyddogaethol"
+WP606EW0007,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     11 Rheolwyr a chyfarwyddwyr corfforaethol;         115 Rheolwyr a chyfarwyddwyr sefydliadau ariannol"
+WP606EW0008,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     11 Rheolwyr a chyfarwyddwyr corfforaethol;         116 Rheolwyr a chyfarwyddwyr trafnidiaeth a logisteg"
+WP606EW0009,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     11 Rheolwyr a chyfarwyddwyr corfforaethol;         117 Uwch swyddogion mewn gwasanaethau diogelu"
+WP606EW0010,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     11 Rheolwyr a chyfarwyddwyr corfforaethol;         118 Rheolwyr a chyfarwyddwyr iechyd a gwasanaethau cymdeithasol"
+WP606EW0011,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     11 Rheolwyr a chyfarwyddwyr corfforaethol;         119 Rheolwyr a chyfarwyddwyr manwerthu a chyfanwerthu"
+WP606EW0012,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     12 Rheolwyr a pherchenogion eraill"
+WP606EW0013,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     12 Rheolwyr a pherchenogion eraill;         121 Rheolwyr a pherchenogion mewn gwasanaethau sy'n gysylltiedig ag amaethyddiaeth"
+WP606EW0014,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     12 Rheolwyr a pherchenogion eraill;         122 Rheolwyr a pherchenogion mewn gwasanaethau lletygarwch a hamdden"
+WP606EW0015,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     12 Rheolwyr a pherchenogion eraill;         124 Rheolwyr a pherchenogion mewn gwasanaethau iechyd a gofal"
+WP606EW0016,Count,Person,"1 Rheolwyr, cyfarwyddwyr ac uwch swyddogion;     12 Rheolwyr a pherchenogion eraill;         125 Rheolwyr a pherchenogion mewn gwasanaethau eraill"
+WP606EW0017,Count,Person,2 Galwedigaethau proffesiynol
+WP606EW0018,Count,Person,"2 Galwedigaethau proffesiynol;     21 Gweithwyr gwyddoniaeth, ymchwil, peirianneg a thechnoleg proffesiynol"
+WP606EW0019,Count,Person,"2 Galwedigaethau proffesiynol;     21 Gweithwyr gwyddoniaeth, ymchwil, peirianneg a thechnoleg proffesiynol;         211 Gweithwyr gwyddoniaeth naturiol a chymdeithasol proffesiynol"
+WP606EW0020,Count,Person,"2 Galwedigaethau proffesiynol;     21 Gweithwyr gwyddoniaeth, ymchwil, peirianneg a thechnoleg proffesiynol;         212 Gweithwyr peirianneg proffesiynol"
+WP606EW0021,Count,Person,"2 Galwedigaethau proffesiynol;     21 Gweithwyr gwyddoniaeth, ymchwil, peirianneg a thechnoleg proffesiynol;         213 Gweithwyr technoleg gwybodaeth a thelathrebu proffesiynol"
+WP606EW0022,Count,Person,"2 Galwedigaethau proffesiynol;     21 Gweithwyr gwyddoniaeth, ymchwil, peirianneg a thechnoleg proffesiynol;         214 Gweithwyr cadwraeth a'r amgylchedd proffesiynol"
+WP606EW0023,Count,Person,"2 Galwedigaethau proffesiynol;     21 Gweithwyr gwyddoniaeth, ymchwil, peirianneg a thechnoleg proffesiynol;         215 Rheolwyr ymchwil a datblygu"
+WP606EW0024,Count,Person,2 Galwedigaethau proffesiynol;     22 Gweithwyr iechyd proffesiynol
+WP606EW0025,Count,Person,2 Galwedigaethau proffesiynol;     22 Gweithwyr iechyd proffesiynol;         221 Gweithwyr iechyd proffesiynol
+WP606EW0026,Count,Person,2 Galwedigaethau proffesiynol;     22 Gweithwyr iechyd proffesiynol;         222 Gweithwyr therapi proffesiynol
+WP606EW0027,Count,Person,2 Galwedigaethau proffesiynol;     22 Gweithwyr iechyd proffesiynol;         223 Gweithwyr nyrsio a bydwreigiaeth proffesiynol
+WP606EW0028,Count,Person,2 Galwedigaethau proffesiynol;     23 Gweithwyr addysgu ac addysgol proffesiynol
+WP606EW0029,Count,Person,2 Galwedigaethau proffesiynol;     23 Gweithwyr addysgu ac addysgol proffesiynol;         231 Gweithwyr addysgu ac addysgol proffesiynol
+WP606EW0030,Count,Person,"2 Galwedigaethau proffesiynol;     24 Gweithwyr busnes, y cyfryngau a gwasanaethau cyhoeddus proffesiynol"
+WP606EW0031,Count,Person,"2 Galwedigaethau proffesiynol;     24 Gweithwyr busnes, y cyfryngau a gwasanaethau cyhoeddus proffesiynol;         241 Gweithwyr cyfreithiol proffesiynol"
+WP606EW0032,Count,Person,"2 Galwedigaethau proffesiynol;     24 Gweithwyr busnes, y cyfryngau a gwasanaethau cyhoeddus proffesiynol;         242 Gweithwyr busnes, ymchwil a gweinyddol proffesiynol"
+WP606EW0033,Count,Person,"2 Galwedigaethau proffesiynol;     24 Gweithwyr busnes, y cyfryngau a gwasanaethau cyhoeddus proffesiynol;         243 Penseiri, cynllunwyr trefi a syrfewyr"
+WP606EW0034,Count,Person,"2 Galwedigaethau proffesiynol;     24 Gweithwyr busnes, y cyfryngau a gwasanaethau cyhoeddus proffesiynol;         244 Gweithwyr lles proffesiynol"
+WP606EW0035,Count,Person,"2 Galwedigaethau proffesiynol;     24 Gweithwyr busnes, y cyfryngau a gwasanaethau cyhoeddus proffesiynol;         245 Llyfrgellwyr a gweithwyr cysylltiedig proffesiynol"
+WP606EW0036,Count,Person,"2 Galwedigaethau proffesiynol;     24 Gweithwyr busnes, y cyfryngau a gwasanaethau cyhoeddus proffesiynol;         246 Gweithwyr ansawdd a rheoleiddio proffesiynol"
+WP606EW0037,Count,Person,"2 Galwedigaethau proffesiynol;     24 Gweithwyr busnes, y cyfryngau a gwasanaethau cyhoeddus proffesiynol;         247 Gweithwyr y cyfryngau proffesiynol"
+WP606EW0038,Count,Person,3 Galwedigaethau proffesiynol a thechnegol cyswllt
+WP606EW0039,Count,Person,"3 Galwedigaethau proffesiynol a thechnegol cyswllt;     31 Gweithwyr gwyddoniaeth, peirianneg a thechnoleg cyswllt proffesiynol"
+WP606EW0040,Count,Person,"3 Galwedigaethau proffesiynol a thechnegol cyswllt;     31 Gweithwyr gwyddoniaeth, peirianneg a thechnoleg cyswllt proffesiynol;         311 Technegwyr gwyddoniaeth, peirianneg a chynhyrchu"
+WP606EW0041,Count,Person,"3 Galwedigaethau proffesiynol a thechnegol cyswllt;     31 Gweithwyr gwyddoniaeth, peirianneg a thechnoleg cyswllt proffesiynol;         312 Drafftsmyn a thechnegwyr pensaernïol cysylltiedig"
+WP606EW0042,Count,Person,"3 Galwedigaethau proffesiynol a thechnegol cyswllt;     31 Gweithwyr gwyddoniaeth, peirianneg a thechnoleg cyswllt proffesiynol;         313 Technegwyr technoleg gwybodaeth"
+WP606EW0043,Count,Person,3 Galwedigaethau proffesiynol a thechnegol cyswllt;     32 Gweithwyr iechyd a gofal cymdeithasol cyswllt proffesiynol
+WP606EW0044,Count,Person,3 Galwedigaethau proffesiynol a thechnegol cyswllt;     32 Gweithwyr iechyd a gofal cymdeithasol cyswllt proffesiynol;         321 Gweithwyr iechyd cyswllt proffesiynol
+WP606EW0045,Count,Person,3 Galwedigaethau proffesiynol a thechnegol cyswllt;     32 Gweithwyr iechyd a gofal cymdeithasol cyswllt proffesiynol;         323 Gweithwyr lles a thai cyswllt proffesiynol
+WP606EW0046,Count,Person,3 Galwedigaethau proffesiynol a thechnegol cyswllt;     33 Galwedigaethau gwasanaethau diogelu
+WP606EW0047,Count,Person,3 Galwedigaethau proffesiynol a thechnegol cyswllt;     33 Galwedigaethau gwasanaethau diogelu;         331 Galwedigaethau gwasanaethau diogelu
+WP606EW0048,Count,Person,"3 Galwedigaethau proffesiynol a thechnegol cyswllt;     34 Galwedigaethau diwylliant, y cyfryngau a chwaraeon"
+WP606EW0049,Count,Person,"3 Galwedigaethau proffesiynol a thechnegol cyswllt;     34 Galwedigaethau diwylliant, y cyfryngau a chwaraeon;         341 Galwedigaethau artistig, llenyddol a'r cyfryngau"
+WP606EW0050,Count,Person,"3 Galwedigaethau proffesiynol a thechnegol cyswllt;     34 Galwedigaethau diwylliant, y cyfryngau a chwaraeon;         342 Galwedigaethau dylunio"
+WP606EW0051,Count,Person,"3 Galwedigaethau proffesiynol a thechnegol cyswllt;     34 Galwedigaethau diwylliant, y cyfryngau a chwaraeon;         344 Galwedigaethau chwaraeon a ffitrwydd"
+WP606EW0052,Count,Person,3 Galwedigaethau proffesiynol a thechnegol cyswllt;     35 Gweithwyr busnes a gwasanaethau cyhoeddus cyswllt proffesiynol
+WP606EW0053,Count,Person,3 Galwedigaethau proffesiynol a thechnegol cyswllt;     35 Gweithwyr busnes a gwasanaethau cyhoeddus cyswllt proffesiynol;         351 Gweithwyr trafnidiaeth cyswllt proffesiynol
+WP606EW0054,Count,Person,3 Galwedigaethau proffesiynol a thechnegol cyswllt;     35 Gweithwyr busnes a gwasanaethau cyhoeddus cyswllt proffesiynol;         352 Gweithwyr cyfreithiol cyswllt proffesiynol
+WP606EW0055,Count,Person,"3 Galwedigaethau proffesiynol a thechnegol cyswllt;     35 Gweithwyr busnes a gwasanaethau cyhoeddus cyswllt proffesiynol;         353 Gweithwyr busnes, cyllid a gweithwyr cyswllt cysylltiedig proffesiynol"
+WP606EW0056,Count,Person,"3 Galwedigaethau proffesiynol a thechnegol cyswllt;     35 Gweithwyr busnes a gwasanaethau cyhoeddus cyswllt proffesiynol;         354 Gweithwyr gwerthu, marchnata a gweithwyr cyswllt cysylltiedig proffesiynol"
+WP606EW0057,Count,Person,3 Galwedigaethau proffesiynol a thechnegol cyswllt;     35 Gweithwyr busnes a gwasanaethau cyhoeddus cyswllt proffesiynol;         355 Gweithwyr cadwraeth a'r amgylchedd cyswllt proffesiynol
+WP606EW0058,Count,Person,3 Galwedigaethau proffesiynol a thechnegol cyswllt;     35 Gweithwyr busnes a gwasanaethau cyhoeddus cyswllt proffesiynol;         356 Gweithwyr gwasanaethau cyhoeddus a gweithwyr cyswllt proffesiynol eraill
+WP606EW0059,Count,Person,4 Galwedigaethau gweinyddol ac ysgrifenyddol
+WP606EW0060,Count,Person,4 Galwedigaethau gweinyddol ac ysgrifenyddol;     41 Galwedigaethau gweinyddol
+WP606EW0061,Count,Person,4 Galwedigaethau gweinyddol ac ysgrifenyddol;     41 Galwedigaethau gweinyddol;         411 Galwedigaethau gweinyddol: Llywodraeth a sefydliadau cysylltiedig
+WP606EW0062,Count,Person,4 Galwedigaethau gweinyddol ac ysgrifenyddol;     41 Galwedigaethau gweinyddol;         412 Galwedigaethau gweinyddol: Cyllid
+WP606EW0063,Count,Person,4 Galwedigaethau gweinyddol ac ysgrifenyddol;     41 Galwedigaethau gweinyddol;         413 Galwedigaethau gweinyddol: Cofnodion
+WP606EW0064,Count,Person,4 Galwedigaethau gweinyddol ac ysgrifenyddol;     41 Galwedigaethau gweinyddol;         415 Galwedigaethau gweinyddol eraill
+WP606EW0065,Count,Person,4 Galwedigaethau gweinyddol ac ysgrifenyddol;     41 Galwedigaethau gweinyddol;         416 Galwedigaethau gweinyddol: Rheolwyr swyddfa a goruchwylwyr
+WP606EW0066,Count,Person,4 Galwedigaethau gweinyddol ac ysgrifenyddol;     42 Galwedigaethau ysgrifenyddol a galwedigaethau cysylltiedig
+WP606EW0067,Count,Person,4 Galwedigaethau gweinyddol ac ysgrifenyddol;     42 Galwedigaethau ysgrifenyddol a galwedigaethau cysylltiedig;         421 Galwedigaethau ysgrifenyddol a galwedigaethau cysylltiedig
+WP606EW0068,Count,Person,5 Galwedigaethau crefftau medrus
+WP606EW0069,Count,Person,5 Galwedigaethau crefftau medrus;     51 Crefftau amaethyddol medrus a chrefftau cysylltiedig
+WP606EW0070,Count,Person,5 Galwedigaethau crefftau medrus;     51 Crefftau amaethyddol medrus a chrefftau cysylltiedig;         511 Crefftau amaethyddol a chrefftau cysylltiedig
+WP606EW0071,Count,Person,"5 Galwedigaethau crefftau medrus;     52 Crefftau metel, trydanol ac electronig medrus"
+WP606EW0072,Count,Person,"5 Galwedigaethau crefftau medrus;     52 Crefftau metel, trydanol ac electronig medrus;         521 Crefftau creu metel, weldio a chrefftau cysylltiedig"
+WP606EW0073,Count,Person,"5 Galwedigaethau crefftau medrus;     52 Crefftau metel, trydanol ac electronig medrus;         522 Crefftau peiriannu metel, gosod a gwneud offerynnau"
+WP606EW0074,Count,Person,"5 Galwedigaethau crefftau medrus;     52 Crefftau metel, trydanol ac electronig medrus;         523 Crefftau cerbydau"
+WP606EW0075,Count,Person,"5 Galwedigaethau crefftau medrus;     52 Crefftau metel, trydanol ac electronig medrus;         524 Crefftau trydanol ac electronig"
+WP606EW0076,Count,Person,"5 Galwedigaethau crefftau medrus;     52 Crefftau metel, trydanol ac electronig medrus;         525 Goruchwylwyr crefftau metel, trydanol ac electronig medrus"
+WP606EW0077,Count,Person,5 Galwedigaethau crefftau medrus;     53 Crefftau adeiladu medrus
+WP606EW0078,Count,Person,5 Galwedigaethau crefftau medrus;     53 Crefftau adeiladu medrus;         531 Crefftau adeiladu
+WP606EW0079,Count,Person,5 Galwedigaethau crefftau medrus;     53 Crefftau adeiladu medrus;         532 Crefftau gorffeniadau adeiladu
+WP606EW0080,Count,Person,5 Galwedigaethau crefftau medrus;     53 Crefftau adeiladu medrus;         533 Goruchwylwyr crefftau adeiladu
+WP606EW0081,Count,Person,"5 Galwedigaethau crefftau medrus;     54 Tecstilau, argraffu a chrefftau medrus eraill"
+WP606EW0082,Count,Person,"5 Galwedigaethau crefftau medrus;     54 Tecstilau, argraffu a chrefftau medrus eraill;         541 Crefftau tecstilau a dillad"
+WP606EW0083,Count,Person,"5 Galwedigaethau crefftau medrus;     54 Tecstilau, argraffu a chrefftau medrus eraill;         542 Crefftau argraffu"
+WP606EW0084,Count,Person,"5 Galwedigaethau crefftau medrus;     54 Tecstilau, argraffu a chrefftau medrus eraill;         543 Crefftau paratoi bwyd a lletygarwch"
+WP606EW0085,Count,Person,"5 Galwedigaethau crefftau medrus;     54 Tecstilau, argraffu a chrefftau medrus eraill;         544 Crefftau medrus eraill"
+WP606EW0086,Count,Person,"6 Galwedigaethau gofalu, hamdden a galwedigaethau gwasanaethau eraill"
+WP606EW0087,Count,Person,"6 Galwedigaethau gofalu, hamdden a galwedigaethau gwasanaethau eraill;     61 Galwedigaethau gwasanaethau gofal personol"
+WP606EW0088,Count,Person,"6 Galwedigaethau gofalu, hamdden a galwedigaethau gwasanaethau eraill;     61 Galwedigaethau gwasanaethau gofal personol;         612 Gofal plant a gwasanaethau personol cysylltiedig"
+WP606EW0089,Count,Person,"6 Galwedigaethau gofalu, hamdden a galwedigaethau gwasanaethau eraill;     61 Galwedigaethau gwasanaethau gofal personol;         613 Gwasanaethau rheoli a gofalu am anifeiliaid"
+WP606EW0090,Count,Person,"6 Galwedigaethau gofalu, hamdden a galwedigaethau gwasanaethau eraill;     61 Galwedigaethau gwasanaethau gofal personol;         614 Gwasanaethau gofal personol"
+WP606EW0091,Count,Person,"6 Galwedigaethau gofalu, hamdden a galwedigaethau gwasanaethau eraill;     62 Galwedigaethau hamdden, teithio a gwasanaeth personol cysylltiedig"
+WP606EW0092,Count,Person,"6 Galwedigaethau gofalu, hamdden a galwedigaethau gwasanaethau eraill;     62 Galwedigaethau hamdden, teithio a gwasanaeth personol cysylltiedig;         621 Gwasanaethau hamdden a theithio"
+WP606EW0093,Count,Person,"6 Galwedigaethau gofalu, hamdden a galwedigaethau gwasanaethau eraill;     62 Galwedigaethau hamdden, teithio a gwasanaeth personol cysylltiedig;         622 Trinwyr gwallt a gwasanaethau cysylltiedig"
+WP606EW0094,Count,Person,"6 Galwedigaethau gofalu, hamdden a galwedigaethau gwasanaethau eraill;     62 Galwedigaethau hamdden, teithio a gwasanaeth personol cysylltiedig;         623 Cadw tŷ a gwasanaethau cysylltiedig"
+WP606EW0095,Count,Person,"6 Galwedigaethau gofalu, hamdden a galwedigaethau gwasanaethau eraill;     62 Galwedigaethau hamdden, teithio a gwasanaeth personol cysylltiedig;         624 Rheolwyr a goruchwylwyr glanhau a chadw tŷ"
+WP606EW0096,Count,Person,7 Galwedigaethau gwerthu a gwasanaethau cwsmeriaid
+WP606EW0097,Count,Person,7 Galwedigaethau gwerthu a gwasanaethau cwsmeriaid;     71 Galwedigaethau gwerthu
+WP606EW0098,Count,Person,7 Galwedigaethau gwerthu a gwasanaethau cwsmeriaid;     71 Galwedigaethau gwerthu;         711 Cynorthwywyr gwerthu ac arianwyr manwerthu
+WP606EW0099,Count,Person,7 Galwedigaethau gwerthu a gwasanaethau cwsmeriaid;     71 Galwedigaethau gwerthu;         712 Galwedigaethau gwerthu cysylltiedig
+WP606EW0100,Count,Person,7 Galwedigaethau gwerthu a gwasanaethau cwsmeriaid;     71 Galwedigaethau gwerthu;         713 Goruchwylwyr gwerthu
+WP606EW0101,Count,Person,7 Galwedigaethau gwerthu a gwasanaethau cwsmeriaid;     72 Galwedigaethau gwasanaethau cwsmeriaid
+WP606EW0102,Count,Person,7 Galwedigaethau gwerthu a gwasanaethau cwsmeriaid;     72 Galwedigaethau gwasanaethau cwsmeriaid;         721 Galwedigaethau gwasanaethau cwsmeriaid
+WP606EW0103,Count,Person,7 Galwedigaethau gwerthu a gwasanaethau cwsmeriaid;     72 Galwedigaethau gwasanaethau cwsmeriaid;         722 Rheolwyr a goruchwylwyr gwasanaethau cwsmeriaid
+WP606EW0104,Count,Person,"8 Gweithredwyr prosesau, offer a pheiriannau"
+WP606EW0105,Count,Person,"8 Gweithredwyr prosesau, offer a pheiriannau;     81 Gweithredwyr prosesau, offer a pheiriannau"
+WP606EW0106,Count,Person,"8 Gweithredwyr prosesau, offer a pheiriannau;     81 Gweithredwyr prosesau, offer a pheiriannau;         811 Gweithredwyr prosesau"
+WP606EW0107,Count,Person,"8 Gweithredwyr prosesau, offer a pheiriannau;     81 Gweithredwyr prosesau, offer a pheiriannau;         812 Gweithredwyr offer a pheiriannau"
+WP606EW0108,Count,Person,"8 Gweithredwyr prosesau, offer a pheiriannau;     81 Gweithredwyr prosesau, offer a pheiriannau;         813 Gosodwyr a gweithredwyr cyffredinol"
+WP606EW0109,Count,Person,"8 Gweithredwyr prosesau, offer a pheiriannau;     81 Gweithredwyr prosesau, offer a pheiriannau;         814 Gweithredwyr adeiladu"
+WP606EW0110,Count,Person,"8 Gweithredwyr prosesau, offer a pheiriannau;     82 Gyrwyr a gweithredwyr trafnidiaeth a pheiriannau symudol"
+WP606EW0111,Count,Person,"8 Gweithredwyr prosesau, offer a pheiriannau;     82 Gyrwyr a gweithredwyr trafnidiaeth a pheiriannau symudol;         821 Gyrwyr trafnidiaeth ar y ffordd"
+WP606EW0112,Count,Person,"8 Gweithredwyr prosesau, offer a pheiriannau;     82 Gyrwyr a gweithredwyr trafnidiaeth a pheiriannau symudol;         822 Gyrwyr a gweithredwyr peiriannau symudol"
+WP606EW0113,Count,Person,"8 Gweithredwyr prosesau, offer a pheiriannau;     82 Gyrwyr a gweithredwyr trafnidiaeth a pheiriannau symudol;         823 Gyrwyr a gweithredwyr trafnidiaeth eraill"
+WP606EW0114,Count,Person,9 Galwedigaethau elfennol
+WP606EW0115,Count,Person,9 Galwedigaethau elfennol;     91 Crefftau elfennol a galwedigaethau cysylltiedig
+WP606EW0116,Count,Person,9 Galwedigaethau elfennol;     91 Crefftau elfennol a galwedigaethau cysylltiedig;         911 Galwedigaethau amaethyddol elfennol
+WP606EW0117,Count,Person,9 Galwedigaethau elfennol;     91 Crefftau elfennol a galwedigaethau cysylltiedig;         912 Galwedigaethau adeiladu elfennol
+WP606EW0118,Count,Person,9 Galwedigaethau elfennol;     91 Crefftau elfennol a galwedigaethau cysylltiedig;         913 Galwedigaethau offer prosesu elfennol
+WP606EW0119,Count,Person,9 Galwedigaethau elfennol;     92 Galwedigaethau gweinyddol a gwasanaethau elfennol
+WP606EW0120,Count,Person,9 Galwedigaethau elfennol;     92 Galwedigaethau gweinyddol a gwasanaethau elfennol;         921 Galwedigaethau gweinyddol elfennol
+WP606EW0121,Count,Person,9 Galwedigaethau elfennol;     92 Galwedigaethau gweinyddol a gwasanaethau elfennol;         923 Galwedigaethau glanhau elfennol
+WP606EW0122,Count,Person,9 Galwedigaethau elfennol;     92 Galwedigaethau gweinyddol a gwasanaethau elfennol;         Galwedigaethau diogelwch elfennol
+WP606EW0123,Count,Person,9 Galwedigaethau elfennol;     92 Galwedigaethau gweinyddol a gwasanaethau elfennol;         925 Galwedigaethau gwerthu elfennol
+WP606EW0124,Count,Person,9 Galwedigaethau elfennol;     92 Galwedigaethau gweinyddol a gwasanaethau elfennol;         926 Galwedigaethau storio elfennol
+WP606EW0125,Count,Person,9 Galwedigaethau elfennol;     92 Galwedigaethau gweinyddol a gwasanaethau elfennol;         927 Galwedigaethau gwasanaethau elfennol eraill

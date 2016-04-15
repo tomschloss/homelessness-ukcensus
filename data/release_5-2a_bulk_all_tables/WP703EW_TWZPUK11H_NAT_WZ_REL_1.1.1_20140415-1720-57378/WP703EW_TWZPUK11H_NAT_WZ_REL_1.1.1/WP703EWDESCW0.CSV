@@ -1,0 +1,13 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP703EW0001,Count,Person,Pob categori: Y dull o deithio i’r gwaith (manyleb 2001)
+WP703EW0002,Count,Person,Gweithio’n bennaf gartref neu o’r cartref
+WP703EW0003,Count,Person,"Trên tanddaearol, metro, tram neu reilffordd ysgafn"
+WP703EW0004,Count,Person,Trên
+WP703EW0005,Count,Person,Bws neu fws mini
+WP703EW0006,Count,Person,Tacsi
+WP703EW0007,Count,Person,"Beic modur, moped neu sgwter"
+WP703EW0008,Count,Person,Gyrru car neu fan
+WP703EW0009,Count,Person,Teithiwr mewn car neu fan
+WP703EW0010,Count,Person,Beic
+WP703EW0011,Count,Person,Cerdded
+WP703EW0012,Count,Person,Dull arall o deithio i’r gwaith

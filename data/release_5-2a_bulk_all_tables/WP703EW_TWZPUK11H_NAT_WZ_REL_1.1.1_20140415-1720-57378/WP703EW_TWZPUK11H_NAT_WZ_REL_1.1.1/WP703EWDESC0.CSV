@@ -1,0 +1,13 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP703EW0001,Count,Person,All categories: Method of travel to work (2001 specification)
+WP703EW0002,Count,Person,Work mainly at or from home
+WP703EW0003,Count,Person,"Underground, metro, light rail or tram"
+WP703EW0004,Count,Person,Train
+WP703EW0005,Count,Person,"Bus, minibus or coach"
+WP703EW0006,Count,Person,Taxi
+WP703EW0007,Count,Person,"Motorcycle, scooter or moped"
+WP703EW0008,Count,Person,Driving a car or van
+WP703EW0009,Count,Person,Passenger in a car or van
+WP703EW0010,Count,Person,Bicycle
+WP703EW0011,Count,Person,On foot
+WP703EW0012,Count,Person,Other method of travel to work

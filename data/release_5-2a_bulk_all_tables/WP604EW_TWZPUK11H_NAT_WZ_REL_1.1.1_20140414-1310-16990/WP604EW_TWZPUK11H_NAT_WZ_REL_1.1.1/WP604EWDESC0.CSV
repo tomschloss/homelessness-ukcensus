@@ -1,0 +1,8 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP604EW0001,Count,Person,All categories: Hours worked
+WP604EW0002,Count,Person,Part-time: Total
+WP604EW0003,Count,Person,Part-time: 15 hours or less worked
+WP604EW0004,Count,Person,Part-time: 16 to 30 hours worked
+WP604EW0005,Count,Person,Full-time: Total
+WP604EW0006,Count,Person,Full-time: 31 to 48 hours worked
+WP604EW0007,Count,Person,Full-time: 49 or more hours worked

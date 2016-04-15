@@ -1,0 +1,104 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP204EW0001,Count,Person,All categories: Main language
+WP204EW0002,Count,Person,English (English or Welsh in Wales)
+WP204EW0003,Count,Person,Welsh/Cymraeg (in England only)
+WP204EW0004,Count,Person,Other UK language: Total
+WP204EW0005,Count,Person,Other UK language: Gaelic (Irish)
+WP204EW0006,Count,Person,Other UK language: Gaelic (Scottish)
+WP204EW0007,Count,Person,Other UK language: Manx Gaelic
+WP204EW0008,Count,Person,Other UK language: Gaelic (Not otherwise specified)
+WP204EW0009,Count,Person,Other UK language: Cornish
+WP204EW0010,Count,Person,Other UK language: Scots
+WP204EW0011,Count,Person,Other UK language: Gypsy/Traveller languages
+WP204EW0012,Count,Person,French
+WP204EW0013,Count,Person,Portuguese
+WP204EW0014,Count,Person,Spanish
+WP204EW0015,Count,Person,Other European language (EU): Total
+WP204EW0016,Count,Person,Other European language (EU): Italian
+WP204EW0017,Count,Person,Other European language (EU): German
+WP204EW0018,Count,Person,Other European language (EU): Polish
+WP204EW0019,Count,Person,Other European language (EU): Slovak
+WP204EW0020,Count,Person,Other European language (EU): Czech
+WP204EW0021,Count,Person,Other European language (EU): Romanian
+WP204EW0022,Count,Person,Other European language (EU): Lithuanian
+WP204EW0023,Count,Person,Other European language (EU): Latvian
+WP204EW0024,Count,Person,Other European language (EU): Hungarian
+WP204EW0025,Count,Person,Other European language (EU): Bulgarian
+WP204EW0026,Count,Person,Other European language (EU): Greek
+WP204EW0027,Count,Person,Other European language (EU): Dutch
+WP204EW0028,Count,Person,Other European language (EU): Swedish
+WP204EW0029,Count,Person,Other European language (EU): Danish
+WP204EW0030,Count,Person,Other European language (EU): Finnish
+WP204EW0031,Count,Person,Other European language (EU): Estonian
+WP204EW0032,Count,Person,Other European language (EU): Slovenian
+WP204EW0033,Count,Person,Other European language (EU): Maltese
+WP204EW0034,Count,Person,Other European language (EU): Any other European language (EU)
+WP204EW0035,Count,Person,Other European language (non EU): Total
+WP204EW0036,Count,Person,Other European language (non EU): Albanian
+WP204EW0037,Count,Person,Other European language (non EU): Serbian/Croatian/Bosnian
+WP204EW0038,Count,Person,Other European language (non EU): Ukrainian
+WP204EW0039,Count,Person,Other European language (non EU): Any other Eastern European language (non EU)
+WP204EW0040,Count,Person,Other European language (non EU): Northern European language (non EU)
+WP204EW0041,Count,Person,Other European language (non-national): Total
+WP204EW0042,Count,Person,Other European language (non-national): Romani language (any)
+WP204EW0043,Count,Person,Other European language (non-national): Yiddish
+WP204EW0044,Count,Person,Russian
+WP204EW0045,Count,Person,Turkish
+WP204EW0046,Count,Person,Arabic
+WP204EW0047,Count,Person,West/Central Asian language: Total
+WP204EW0048,Count,Person,West/Central Asian language: Hebrew
+WP204EW0049,Count,Person,West/Central Asian language: Kurdish
+WP204EW0050,Count,Person,West/Central Asian language: Persian/Farsi
+WP204EW0051,Count,Person,West/Central Asian language: Pashto
+WP204EW0052,Count,Person,West/Central Asian language: West/Central Asian language (all other)
+WP204EW0053,Count,Person,South Asian language: Total
+WP204EW0054,Count,Person,South Asian language: Urdu
+WP204EW0055,Count,Person,South Asian language: Hindi
+WP204EW0056,Count,Person,South Asian language: Panjabi
+WP204EW0057,Count,Person,South Asian language: Pakistani Pahari (with Mirpuri and Potwari)
+WP204EW0058,Count,Person,South Asian language: Bengali (with Sylheti and Chatgaya)
+WP204EW0059,Count,Person,South Asian language: Gujarati
+WP204EW0060,Count,Person,South Asian language: Marathi
+WP204EW0061,Count,Person,South Asian language: Telugu
+WP204EW0062,Count,Person,South Asian language: Tamil
+WP204EW0063,Count,Person,South Asian language: Malayalam
+WP204EW0064,Count,Person,South Asian language: Sinhala
+WP204EW0065,Count,Person,South Asian language: Nepalese
+WP204EW0066,Count,Person,South Asian language: South Asian language (all other)
+WP204EW0067,Count,Person,East Asian language: Total
+WP204EW0068,Count,Person,East Asian language: Mandarin Chinese
+WP204EW0069,Count,Person,East Asian language: Cantonese Chinese
+WP204EW0070,Count,Person,East Asian language: All other Chinese
+WP204EW0071,Count,Person,East Asian language: Japanese
+WP204EW0072,Count,Person,East Asian language: Korean
+WP204EW0073,Count,Person,East Asian language: Vietnamese
+WP204EW0074,Count,Person,East Asian language: Thai
+WP204EW0075,Count,Person,East Asian language: Malay
+WP204EW0076,Count,Person,East Asian language: Tagalog/Filipino
+WP204EW0077,Count,Person,East Asian language: East Asian language (all other)
+WP204EW0078,Count,Person,Oceanic/Australian language (any)
+WP204EW0079,Count,Person,North/South American language (any)
+WP204EW0080,Count,Person,Caribbean Creole: Total
+WP204EW0081,Count,Person,Caribbean Creole: Caribbean Creole (English-based)
+WP204EW0082,Count,Person,Caribbean Creole: Caribbean Creole (all other)
+WP204EW0083,Count,Person,African language: Total
+WP204EW0084,Count,Person,African language: Amharic
+WP204EW0085,Count,Person,African language: Tigrinya
+WP204EW0086,Count,Person,African language: Somali
+WP204EW0087,Count,Person,African language: Krio
+WP204EW0088,Count,Person,African language: Akan
+WP204EW0089,Count,Person,African language: Yoruba
+WP204EW0090,Count,Person,African language: Igbo
+WP204EW0091,Count,Person,African language: Swahili/Kiswahili
+WP204EW0092,Count,Person,African language: Luganda
+WP204EW0093,Count,Person,African language: Lingala
+WP204EW0094,Count,Person,African language: Shona
+WP204EW0095,Count,Person,African language: Afrikaans
+WP204EW0096,Count,Person,African language: Any other Nigerian language
+WP204EW0097,Count,Person,African language: West African language (all other)
+WP204EW0098,Count,Person,African language: African language (all other)
+WP204EW0099,Count,Person,Sign language: Total
+WP204EW0100,Count,Person,Sign language: British Sign Language
+WP204EW0101,Count,Person,Sign language: Sign language (all other)
+WP204EW0102,Count,Person,Sign language: Any Sign communication system
+WP204EW0103,Count,Person,Other language

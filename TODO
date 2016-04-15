@@ -1,0 +1,10 @@
+## pull data from all the files
+## need to pull data file and the associated metadata
+
+
+# loop.dir - loop through all folders in a directory
+# assign relevant names to each dataframe
+# merge data frames
+# pull in gis
+# explore and map
+# calculate homelessness

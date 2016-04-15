@@ -1,0 +1,15 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP403EW0001,Count,Person,All categories: Tenure
+WP403EW0002,Count,Person,Owned: Total
+WP403EW0003,Count,Person,Owned: Owned outright
+WP403EW0004,Count,Person,Owned: Owned with a mortgage or loan
+WP403EW0005,Count,Person,Shared ownership (part owned and part rented)
+WP403EW0006,Count,Person,Social rented: Total
+WP403EW0007,Count,Person,Social rented: Rented from council (Local Authority)
+WP403EW0008,Count,Person,Social rented: Other social rented
+WP403EW0009,Count,Person,Private rented: Total
+WP403EW0010,Count,Person,Private rented: Private landlord or letting agency
+WP403EW0011,Count,Person,Private rented: Employer of a household member
+WP403EW0012,Count,Person,Private rented: Relative or friend of household member
+WP403EW0013,Count,Person,Private rented: Other
+WP403EW0014,Count,Person,Living rent free

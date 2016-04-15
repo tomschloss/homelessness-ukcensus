@@ -1,0 +1,8 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP604EW0001,Count,Person,Pob categori: Oriau a weithiwyd
+WP604EW0002,Count,Person,Rhan-amser: Cyfanswm
+WP604EW0003,Count,Person,Rhan-amser: gweithio 15 awr neu lai
+WP604EW0004,Count,Person,Rhan-amser: Gweithio rhwng 16 a 30 awr
+WP604EW0005,Count,Person,Llawn amser: Cyfanswm
+WP604EW0006,Count,Person,Llawn amser: Gweithio rhwng 31 a 48 awr
+WP604EW0007,Count,Person,Llawn amser: Gweithio 49 awr neu fwy

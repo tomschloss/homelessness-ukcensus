@@ -1,0 +1,13 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP207WA0001,Count,Person,Pob categori: Pob preswylydd arferol (Poblogaeth y gweithle)
+WP207WA0002,Count,Person,Dim sgiliau Cymraeg
+WP207WA0003,Count,Person,Gallu deall Cymraeg llafar yn unig
+WP207WA0004,Count,Person,Gallu siarad Cymraeg: Cyfanswm
+WP207WA0005,Count,Person,Gallu siarad ond yn methu â darllen nac ysgrifennu Cymraeg
+WP207WA0006,Count,Person,Gallu siarad a darllen ond yn methu ag ysgrifennu Cymraeg
+WP207WA0007,Count,Person,"Gallu siarad, darllen ac ysgrifennu Cymraeg"
+WP207WA0008,Count,Person,Gallu siarad Cymraeg ac yn meddu ar gyfuniadau eraill o sgiliau yn Gymraeg
+WP207WA0009,Count,Person,Gallu darllen ond yn methu â siarad nac ysgrifennu Cymraeg
+WP207WA0010,Count,Person,Gallu darllen ac ysgrifennu ond yn methu â siarad Cymraeg
+WP207WA0011,Count,Person,Gallu ysgrifennu ond yn methu â siarad na darllen Cymraeg
+WP207WA0012,Count,Person,Yn gweithio yng Nghymru ond yn byw yn Lloegr

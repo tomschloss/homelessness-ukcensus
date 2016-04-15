@@ -1,0 +1,79 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP203EW0001,Count,Person,Pob categori: Gwlad enedigol
+WP203EW0002,Count,Person,Ewrop: Cyfanswm
+WP203EW0003,Count,Person,Ewrop: Y Deyrnas Unedig: Cyfanswm
+WP203EW0004,Count,Person,Ewrop: Y Deyrnas Unedig: Lloegr
+WP203EW0005,Count,Person,Ewrop: Y Deyrnas Unedig: Gogledd Iwerddon
+WP203EW0006,Count,Person,Ewrop: Y Deyrnas Unedig: Yr Alban
+WP203EW0007,Count,Person,Ewrop: Y Deyrnas Unedig: Cymru
+WP203EW0008,Count,Person,Ewrop: Prydain Fawr heb ei nodi fel arall
+WP203EW0009,Count,Person,Ewrop: Y Deyrnas Unedig heb ei nodi fel arall
+WP203EW0010,Count,Person,Ewrop: Guernsey
+WP203EW0011,Count,Person,Ewrop: Jersey
+WP203EW0012,Count,Person,Ewrop: Ynysoedd y Sianel heb ei nodi fel arall
+WP203EW0013,Count,Person,Ewrop: Ynys Manaw
+WP203EW0014,Count,Person,Ewrop: Iwerddon
+WP203EW0015,Count,Person,Ewrop: Ewrop Arall: Cyfanswm
+WP203EW0016,Count,Person,Ewrop: Ewrop Arall: Gwledydd yr UE: Cyfanswm
+WP203EW0017,Count,Person,Ewrop: Ewrop Arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001: Cyfanswm
+WP203EW0018,Count,Person,Ewrop: Ewrop Arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001: Ffrainc
+WP203EW0019,Count,Person,Ewrop: Ewrop Arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001: Yr Almaen
+WP203EW0020,Count,Person,Ewrop: Ewrop Arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001: Yr Eidal
+WP203EW0021,Count,Person,Ewrop: Ewrop Arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001:: Portiwgal
+WP203EW0022,Count,Person,Ewrop: Ewrop Arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001: Sbaen (gan gynnwys yr Ynysoedd Dedwydd)
+WP203EW0023,Count,Person,Ewrop: Ewrop Arall: Gwledydd yr UE: Aelod-wladwriaethau ym mis Mawrth 2001: Aelod-wladwriaethau eraill ym mis Mawrth 2001
+WP203EW0024,Count,Person,Ewrop: Ewrop Arall: Gwledydd yr UE: Gwledydd sydd wedi'u derbyn rhwng mis Ebrill 2001 a mis Mawrth 2011: Cyfanswm
+WP203EW0025,Count,Person,Ewrop: Ewrop Arall: Gwledydd yr UE: Gwledydd sydd wedi'u derbyn rhwng mis Ebrill 2001 a mis Mawrth 2011: Lithwania
+WP203EW0026,Count,Person,Ewrop: Ewrop Arall: Gwledydd yr UE: Gwledydd sydd wedi'u derbyn rhwng mis Ebrill 2001 a mis Mawrth 2011: Gwlad Pwyl
+WP203EW0027,Count,Person,Ewrop: Ewrop Arall: Gwledydd yr UE: Gwledydd sydd wedi'u derbyn rhwng mis Ebrill 2001 a mis Mawrth 2011: Rwmania
+WP203EW0028,Count,Person,Ewrop: Ewrop Arall: Gwledydd yr UE: Gwledydd sydd wedi'u derbyn rhwng mis Ebrill 2001 a mis Mawrth 2011: Gwledydd eraill sydd wedi'u derbyn yn yr UE
+WP203EW0029,Count,Person,Ewrop: Ewrop Arall: Gweddill Ewrop: Cyfanswm
+WP203EW0030,Count,Person,Ewrop: Ewrop Arall: Gweddill Ewrop: Twrci
+WP203EW0031,Count,Person,Ewrop: Ewrop Arall: Gweddill Ewrop: Ewrop Arall
+WP203EW0032,Count,Person,Affrica: Cyfanswm
+WP203EW0033,Count,Person,Affrica: Gogledd Affrica
+WP203EW0034,Count,Person,Affrica: Canol a Gorllewin Affrica: Cyfanswm
+WP203EW0035,Count,Person,Affrica: Canol a Gorllewin Affrica: Ghana
+WP203EW0036,Count,Person,Affrica: Canol a Gorllewin Affrica: Nigeria
+WP203EW0037,Count,Person,Affrica: Canol a Gorllewin Affrica: Canol a Gorllewin Affrica Arall
+WP203EW0038,Count,Person,Affrica: De a Dwyrain Affrica: Cyfanswm
+WP203EW0039,Count,Person,Affrica: De a Dwyrain Affrica: Kenya
+WP203EW0040,Count,Person,Affrica: De a Dwyrain Affrica: Somalia
+WP203EW0041,Count,Person,Affrica: De a Dwyrain Affrica: De Affrica
+WP203EW0042,Count,Person,Affrica: De a Dwyrain Affrica: Zimbabwe
+WP203EW0043,Count,Person,Affrica: De a Dwyrain Affrica: De a Dwyrain Affrica Arall
+WP203EW0044,Count,Person,Affrica: Affrica heb ei nodi fel arall
+WP203EW0045,Count,Person,Y Dwyrain Canol ac Asia: Cyfanswm
+WP203EW0046,Count,Person,Y Dwyrain Canol ac Asia: Y Dwyrain Canol: Cyfanswm
+WP203EW0047,Count,Person,Y Dwyrain Canol ac Asia: Y Dwyrain Canol: Iran
+WP203EW0048,Count,Person,Y Dwyrain Canol ac Asia: Y Dwyrain Canol: Dwyrain Canol Arall
+WP203EW0049,Count,Person,Y Dwyrain Canol ac Asia: Dwyrain Asia: Cyfanswm
+WP203EW0050,Count,Person,Y Dwyrain Canol ac Asia: De Asia: Tsieina
+WP203EW0051,Count,Person,Y Dwyrain Canol ac Asia: Dwyrain Asia: Hong Kong (Rhanbarth Weinyddol Arbennig Tsieina)
+WP203EW0052,Count,Person,Y Dwyrain Canol ac Asia: Dwyrain Asia: Dwyrain Asia Arall
+WP203EW0053,Count,Person,Y Dwyrain Canol ac Asia: De Asia: Cyfanswm
+WP203EW0054,Count,Person,Y Dwyrain Canol ac Asia: De Asia: Bangladesh
+WP203EW0055,Count,Person,Y Dwyrain Canol ac Asia: De Asia: India
+WP203EW0056,Count,Person,Y Dwyrain Canol ac Asia: De Asia: Pacistan
+WP203EW0057,Count,Person,Y Dwyrain Canol ac Asia: De Asia: Sri Lanka
+WP203EW0058,Count,Person,Y Dwyrain Canol ac Asia: De Asia: De Asia arall
+WP203EW0059,Count,Person,Y Dwyrain Canol ac Asia: De-ddwyrain Asia: Cyfanswm
+WP203EW0060,Count,Person,Y Dwyrain Canol ac Asia: De-ddwyrain Asia: Ynysoedd Philippines
+WP203EW0061,Count,Person,Y Dwyrain Canol ac Asia: De-ddwyrain Asia: De-ddwyrain Asia arall
+WP203EW0062,Count,Person,Y Dwyrain Canol ac Asia: Canol Asia
+WP203EW0063,Count,Person,Cyfandiroedd America a'r Caribî: Cyfanswm
+WP203EW0064,Count,Person,Cyfandiroedd America a'r Caribî: Gogledd America: Cyfanswm
+WP203EW0065,Count,Person,Cyfandiroedd America a'r Caribî: Gogledd America: Yr Unol Daleithiau
+WP203EW0066,Count,Person,Cyfandiroedd America a'r Caribî: Gogledd America: Gogledd America Arall
+WP203EW0067,Count,Person,Cyfandiroedd America a'r Caribî: Canol America
+WP203EW0068,Count,Person,Cyfandiroedd America a'r Caribî: Canol America
+WP203EW0069,Count,Person,Cyfandiroedd America a'r Caribî: Y Caribî: Cyfanswm
+WP203EW0070,Count,Person,Cyfandiroedd America a'r Caribî: Y Caribî: Jamaica
+WP203EW0071,Count,Person,Cyfandiroedd America a'r Caribî: Y Caribî: Y Caribî Arall
+WP203EW0072,Count,Person,Antarctica ac Ynysoedd y De: Cyfanswm
+WP203EW0073,Count,Person,Antarctica ac Ynysoedd y De: Antarctica
+WP203EW0074,Count,Person,Antarctica ac Ynysoedd y De: Awstralasia: Cyfanswm
+WP203EW0075,Count,Person,Antarctica ac Ynysoedd y De: Awstralasia: Awstralia
+WP203EW0076,Count,Person,Antarctica ac Ynysoedd y De: Awstralasia: Awstralasia Arall
+WP203EW0077,Count,Person,Antarctica ac Ynysoedd y De: Ynysoedd y De Arall
+WP203EW0078,Count,Person,Arall

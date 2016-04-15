@@ -1,0 +1,7 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP803EW0001,Count,Person,All categories: Length of residence in the UK
+WP803EW0002,Count,Person,Born in the UK
+WP803EW0003,Count,Person,Resident in UK: Less than 2 years
+WP803EW0004,Count,Person,Resident in UK: 2 years or more but less than 5 years
+WP803EW0005,Count,Person,Resident in UK: 5 years or more but less than 10 years
+WP803EW0006,Count,Person,Resident in UK: 10 years or more

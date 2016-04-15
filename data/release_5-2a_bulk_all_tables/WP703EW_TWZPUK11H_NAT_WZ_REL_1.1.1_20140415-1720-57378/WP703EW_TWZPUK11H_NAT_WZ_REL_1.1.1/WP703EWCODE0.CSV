@@ -1,0 +1,14 @@
+ColumnVariableCode,ColumnVariableMeasurementUnitValue,ColumnVariableStatisticalUnitValue,ColumnVariableCodeValue,ColumnVariableParentCodeValue
+GeographyCode,,,Geography Code
+WP703EW0001,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_TRANSPORT@5f@POWPEW11@5f@T012A|UDF@3a@TRANSPORT_POWPEW11@3a@@20@Method@20@of@20@travel@20@to@20@work@20@@28@2001@20@specification@29@_@23@@23@va@2e@rcd@2e@rpt@2e@TRANSPORT@5f@POWPEW11@5f@T012A@2e@URNB1EBh,
+WP703EW0002,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_TRANSPORT@5f@POWPEW11@5f@T012A|UDF@3a@TRANSPORT_POWPEW11@3a@@20@Method@20@of@20@travel@20@to@20@work@20@@28@2001@20@specification@29@_@23@@23@va@2e@rcd@2e@rpt@2e@TRANSPORT@5f@POWPEW11@5f@T012A@2e@URNBBGcO,
+WP703EW0003,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_TRANSPORT@5f@POWPEW11@5f@T012A|UDF@3a@TRANSPORT_POWPEW11@3a@@20@Method@20@of@20@travel@20@to@20@work@20@@28@2001@20@specification@29@_Underground@3b@@20@metro@3b@@20@light@20@rail@3b@@20@tram,
+WP703EW0004,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_TRANSPORT@5f@POWPEW11@5f@T012A|UDF@3a@TRANSPORT_POWPEW11@3a@@20@Method@20@of@20@travel@20@to@20@work@20@@28@2001@20@specification@29@_Train,
+WP703EW0005,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_TRANSPORT@5f@POWPEW11@5f@T012A|UDF@3a@TRANSPORT_POWPEW11@3a@@20@Method@20@of@20@travel@20@to@20@work@20@@28@2001@20@specification@29@_Bus@3b@@20@minibus@20@or@20@coach,
+WP703EW0006,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_TRANSPORT@5f@POWPEW11@5f@T012A|UDF@3a@TRANSPORT_POWPEW11@3a@@20@Method@20@of@20@travel@20@to@20@work@20@@28@2001@20@specification@29@_Taxi,
+WP703EW0007,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_TRANSPORT@5f@POWPEW11@5f@T012A|UDF@3a@TRANSPORT_POWPEW11@3a@@20@Method@20@of@20@travel@20@to@20@work@20@@28@2001@20@specification@29@_Motorcycle@3b@@20@scooter@20@or@20@moped,
+WP703EW0008,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_TRANSPORT@5f@POWPEW11@5f@T012A|UDF@3a@TRANSPORT_POWPEW11@3a@@20@Method@20@of@20@travel@20@to@20@work@20@@28@2001@20@specification@29@_Driving@20@a@20@car@20@or@20@van,
+WP703EW0009,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_TRANSPORT@5f@POWPEW11@5f@T012A|UDF@3a@TRANSPORT_POWPEW11@3a@@20@Method@20@of@20@travel@20@to@20@work@20@@28@2001@20@specification@29@_Passenger@20@in@20@a@20@car@20@or@20@van,
+WP703EW0010,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_TRANSPORT@5f@POWPEW11@5f@T012A|UDF@3a@TRANSPORT_POWPEW11@3a@@20@Method@20@of@20@travel@20@to@20@work@20@@28@2001@20@specification@29@_Bicycle,
+WP703EW0011,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_TRANSPORT@5f@POWPEW11@5f@T012A|UDF@3a@TRANSPORT_POWPEW11@3a@@20@Method@20@of@20@travel@20@to@20@work@20@@28@2001@20@specification@29@_On@20@foot,
+WP703EW0012,count,F_PERSON_F@5f@PERSON,F@5f@PERSON_TRANSPORT@5f@POWPEW11@5f@T012A|UDF@3a@TRANSPORT_POWPEW11@3a@@20@Method@20@of@20@travel@20@to@20@work@20@@28@2001@20@specification@29@_Other@20@method@20@of@20@travel@20@to@20@work,

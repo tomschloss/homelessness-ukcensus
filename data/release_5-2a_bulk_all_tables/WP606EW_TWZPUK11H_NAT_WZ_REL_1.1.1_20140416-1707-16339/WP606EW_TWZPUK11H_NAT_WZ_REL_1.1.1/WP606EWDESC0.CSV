@@ -1,0 +1,126 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP606EW0001,Count,Person,All categories: Occupation
+WP606EW0002,Count,Person,"1 Managers, directors and senior officials"
+WP606EW0003,Count,Person,"1 Managers, directors and senior officials;     11 Corporate managers and directors"
+WP606EW0004,Count,Person,"1 Managers, directors and senior officials;     11 Corporate managers and directors;         111 Chief Executives and Senior Officials"
+WP606EW0005,Count,Person,"1 Managers, directors and senior officials;     11 Corporate managers and directors;         112 Production Managers and Directors"
+WP606EW0006,Count,Person,"1 Managers, directors and senior officials;     11 Corporate managers and directors;         113 Functional Managers and Directors"
+WP606EW0007,Count,Person,"1 Managers, directors and senior officials;     11 Corporate managers and directors;         115 Financial Institution Managers and Directors"
+WP606EW0008,Count,Person,"1 Managers, directors and senior officials;     11 Corporate managers and directors;         116 Managers and Directors in Transport and Logistics"
+WP606EW0009,Count,Person,"1 Managers, directors and senior officials;     11 Corporate managers and directors;         117 Senior Officers in Protective Services"
+WP606EW0010,Count,Person,"1 Managers, directors and senior officials;     11 Corporate managers and directors;         118 Health and Social Services Managers and Directors"
+WP606EW0011,Count,Person,"1 Managers, directors and senior officials;     11 Corporate managers and directors;         119 Managers and Directors in Retail and Wholesale"
+WP606EW0012,Count,Person,"1 Managers, directors and senior officials;     12 Other managers and proprietors"
+WP606EW0013,Count,Person,"1 Managers, directors and senior officials;     12 Other managers and proprietors;         121 Managers and Proprietors in Agriculture Related Services"
+WP606EW0014,Count,Person,"1 Managers, directors and senior officials;     12 Other managers and proprietors;         122 Managers and Proprietors in Hospitality and Leisure Services"
+WP606EW0015,Count,Person,"1 Managers, directors and senior officials;     12 Other managers and proprietors;         124 Managers and Proprietors in Health and Care Services"
+WP606EW0016,Count,Person,"1 Managers, directors and senior officials;     12 Other managers and proprietors;         125 Managers and Proprietors in Other Services"
+WP606EW0017,Count,Person,2 Professional occupations
+WP606EW0018,Count,Person,"2 Professional occupations;     21 Science, research, engineering and technology professionals"
+WP606EW0019,Count,Person,"2 Professional occupations;     21 Science, research, engineering and technology professionals;         211 Natural and Social Science Professionals"
+WP606EW0020,Count,Person,"2 Professional occupations;     21 Science, research, engineering and technology professionals;         212 Engineering Professionals"
+WP606EW0021,Count,Person,"2 Professional occupations;     21 Science, research, engineering and technology professionals;         213 Information Technology and Telecommunications Professionals"
+WP606EW0022,Count,Person,"2 Professional occupations;     21 Science, research, engineering and technology professionals;         214 Conservation and Environment Professionals"
+WP606EW0023,Count,Person,"2 Professional occupations;     21 Science, research, engineering and technology professionals;         215 Research and Development Managers "
+WP606EW0024,Count,Person,2 Professional occupations;     22 Health professionals
+WP606EW0025,Count,Person,2 Professional occupations;     22 Health professionals;         221 Health Professionals
+WP606EW0026,Count,Person,2 Professional occupations;     22 Health professionals;         222 Therapy Professionals
+WP606EW0027,Count,Person,2 Professional occupations;     22 Health professionals;         223 Nursing and Midwifery Professionals
+WP606EW0028,Count,Person,2 Professional occupations;     23 Teaching and educational professionals
+WP606EW0029,Count,Person,2 Professional occupations;     23 Teaching and educational professionals;         231 Teaching and Educational Professionals
+WP606EW0030,Count,Person,"2 Professional occupations;     24 Business, media and public service professionals"
+WP606EW0031,Count,Person,"2 Professional occupations;     24 Business, media and public service professionals;         241 Legal Professionals"
+WP606EW0032,Count,Person,"2 Professional occupations;     24 Business, media and public service professionals;         242 Business, Research and Administrative Professionals"
+WP606EW0033,Count,Person,"2 Professional occupations;     24 Business, media and public service professionals;         243 Architects, Town Planners and Surveyors"
+WP606EW0034,Count,Person,"2 Professional occupations;     24 Business, media and public service professionals;         244 Welfare Professionals"
+WP606EW0035,Count,Person,"2 Professional occupations;     24 Business, media and public service professionals;         245 Librarians and Related Professionals"
+WP606EW0036,Count,Person,"2 Professional occupations;     24 Business, media and public service professionals;         246 Quality and Regulatory Professionals"
+WP606EW0037,Count,Person,"2 Professional occupations;     24 Business, media and public service professionals;         247 Media Professionals"
+WP606EW0038,Count,Person,3 Associate professional and technical occupations
+WP606EW0039,Count,Person,"3 Associate professional and technical occupations;     31 Science, engineering and technology associate professionals"
+WP606EW0040,Count,Person,"3 Associate professional and technical occupations;     31 Science, engineering and technology associate professionals;         311 Science, Engineering and Production Technicians"
+WP606EW0041,Count,Person,"3 Associate professional and technical occupations;     31 Science, engineering and technology associate professionals;         312 Draughtspersons and Related Architectural Technicians"
+WP606EW0042,Count,Person,"3 Associate professional and technical occupations;     31 Science, engineering and technology associate professionals;         313 Information Technology Technicians"
+WP606EW0043,Count,Person,3 Associate professional and technical occupations;     32 Health and social care associate professionals
+WP606EW0044,Count,Person,3 Associate professional and technical occupations;     32 Health and social care associate professionals;         321 Health Associate Professionals
+WP606EW0045,Count,Person,3 Associate professional and technical occupations;     32 Health and social care associate professionals;         323 Welfare and Housing Associate Professionals
+WP606EW0046,Count,Person,3 Associate professional and technical occupations;     33 Protective service occupations
+WP606EW0047,Count,Person,3 Associate professional and technical occupations;     33 Protective service occupations;         331 Protective Service Occupations
+WP606EW0048,Count,Person,"3 Associate professional and technical occupations;     34 Culture, media and sports occupations"
+WP606EW0049,Count,Person,"3 Associate professional and technical occupations;     34 Culture, media and sports occupations;         341 Artistic, Literary and Media Occupations"
+WP606EW0050,Count,Person,"3 Associate professional and technical occupations;     34 Culture, media and sports occupations;         342 Design Occupations"
+WP606EW0051,Count,Person,"3 Associate professional and technical occupations;     34 Culture, media and sports occupations;         344 Sports and Fitness Occupations"
+WP606EW0052,Count,Person,3 Associate professional and technical occupations;     35 Business and public service associate professionals
+WP606EW0053,Count,Person,3 Associate professional and technical occupations;     35 Business and public service associate professionals;         351 Transport Associate Professionals
+WP606EW0054,Count,Person,3 Associate professional and technical occupations;     35 Business and public service associate professionals;         352 Legal Associate Professionals
+WP606EW0055,Count,Person,"3 Associate professional and technical occupations;     35 Business and public service associate professionals;         353 Business, Finance and Related Associate Professionals"
+WP606EW0056,Count,Person,"3 Associate professional and technical occupations;     35 Business and public service associate professionals;         354 Sales, Marketing and Related Associate Professionals"
+WP606EW0057,Count,Person,3 Associate professional and technical occupations;     35 Business and public service associate professionals;         355 Conservation and Environmental associate professionals
+WP606EW0058,Count,Person,3 Associate professional and technical occupations;     35 Business and public service associate professionals;         356 Public Services and Other Associate Professionals
+WP606EW0059,Count,Person,4 Administrative and secretarial occupations
+WP606EW0060,Count,Person,4 Administrative and secretarial occupations;     41 Administrative occupations
+WP606EW0061,Count,Person,4 Administrative and secretarial occupations;     41 Administrative occupations;         411 Administrative Occupations: Government and Related Organisations
+WP606EW0062,Count,Person,4 Administrative and secretarial occupations;     41 Administrative occupations;         412 Administrative Occupations: Finance
+WP606EW0063,Count,Person,4 Administrative and secretarial occupations;     41 Administrative occupations;         413 Administrative Occupations: Records
+WP606EW0064,Count,Person,4 Administrative and secretarial occupations;     41 Administrative occupations;         415 Other Administrative Occupations
+WP606EW0065,Count,Person,4 Administrative and secretarial occupations;     41 Administrative occupations;         416 Administrative Occupations: Office Managers and Supervisors
+WP606EW0066,Count,Person,4 Administrative and secretarial occupations;     42 Secretarial and related occupations
+WP606EW0067,Count,Person,4 Administrative and secretarial occupations;     42 Secretarial and related occupations;         421 Secretarial and Related Occupations
+WP606EW0068,Count,Person,5 Skilled trades occupations
+WP606EW0069,Count,Person,5 Skilled trades occupations;     51 Skilled agricultural and related trades
+WP606EW0070,Count,Person,5 Skilled trades occupations;     51 Skilled agricultural and related trades;         511 Agricultural and Related Trades
+WP606EW0071,Count,Person,"5 Skilled trades occupations;     52 Skilled metal, electrical and electronic trades"
+WP606EW0072,Count,Person,"5 Skilled trades occupations;     52 Skilled metal, electrical and electronic trades;         521 Metal Forming, Welding and Related Trades"
+WP606EW0073,Count,Person,"5 Skilled trades occupations;     52 Skilled metal, electrical and electronic trades;         522 Metal Machining, Fitting and Instrument Making Trades"
+WP606EW0074,Count,Person,"5 Skilled trades occupations;     52 Skilled metal, electrical and electronic trades;         523 Vehicle Trades"
+WP606EW0075,Count,Person,"5 Skilled trades occupations;     52 Skilled metal, electrical and electronic trades;         524 Electrical and Electronic Trades"
+WP606EW0076,Count,Person,"5 Skilled trades occupations;     52 Skilled metal, electrical and electronic trades;         525 Skilled Metal, Electrical and Electronic Trades Supervisors"
+WP606EW0077,Count,Person,5 Skilled trades occupations;     53 Skilled construction and building trades
+WP606EW0078,Count,Person,5 Skilled trades occupations;     53 Skilled construction and building trades;         531 Construction and Building Trades
+WP606EW0079,Count,Person,5 Skilled trades occupations;     53 Skilled construction and building trades;         532 Building Finishing Trades
+WP606EW0080,Count,Person,5 Skilled trades occupations;     53 Skilled construction and building trades;         533 Construction and Building Trades Supervisors
+WP606EW0081,Count,Person,"5 Skilled trades occupations;     54 Textiles, printing and other skilled trades"
+WP606EW0082,Count,Person,"5 Skilled trades occupations;     54 Textiles, printing and other skilled trades;         541 Textiles and Garments Trades"
+WP606EW0083,Count,Person,"5 Skilled trades occupations;     54 Textiles, printing and other skilled trades;         542 Printing Trades"
+WP606EW0084,Count,Person,"5 Skilled trades occupations;     54 Textiles, printing and other skilled trades;         543 Food Preparation and Hospitality Trades"
+WP606EW0085,Count,Person,"5 Skilled trades occupations;     54 Textiles, printing and other skilled trades;         544 Other Skilled Trades"
+WP606EW0086,Count,Person,"6 Caring, leisure and other service occupations"
+WP606EW0087,Count,Person,"6 Caring, leisure and other service occupations;     61 Caring personal service occupations"
+WP606EW0088,Count,Person,"6 Caring, leisure and other service occupations;     61 Caring personal service occupations;         612 Childcare and Related Personal Services"
+WP606EW0089,Count,Person,"6 Caring, leisure and other service occupations;     61 Caring personal service occupations;         613 Animal Care and Control Services"
+WP606EW0090,Count,Person,"6 Caring, leisure and other service occupations;     61 Caring personal service occupations;         614 Caring Personal Services"
+WP606EW0091,Count,Person,"6 Caring, leisure and other service occupations;     62 Leisure, travel and related personal service occupations"
+WP606EW0092,Count,Person,"6 Caring, leisure and other service occupations;     62 Leisure, travel and related personal service occupations;         621 Leisure and Travel Services"
+WP606EW0093,Count,Person,"6 Caring, leisure and other service occupations;     62 Leisure, travel and related personal service occupations;         622 Hairdressers and Related Services"
+WP606EW0094,Count,Person,"6 Caring, leisure and other service occupations;     62 Leisure, travel and related personal service occupations;         623 Housekeeping and Related Services"
+WP606EW0095,Count,Person,"6 Caring, leisure and other service occupations;     62 Leisure, travel and related personal service occupations;         624 Cleaning and Housekeeping Managers and Supervisors"
+WP606EW0096,Count,Person,7 Sales and customer service occupations
+WP606EW0097,Count,Person,7 Sales and customer service occupations;     71 Sales occupations
+WP606EW0098,Count,Person,7 Sales and customer service occupations;     71 Sales occupations;         711 Sales Assistants and Retail Cashiers
+WP606EW0099,Count,Person,7 Sales and customer service occupations;     71 Sales occupations;         712 Sales Related Occupations
+WP606EW0100,Count,Person,7 Sales and customer service occupations;     71 Sales occupations;         713 Sales Supervisors
+WP606EW0101,Count,Person,7 Sales and customer service occupations;     72 Customer service occupations
+WP606EW0102,Count,Person,7 Sales and customer service occupations;     72 Customer service occupations;         721 Customer Service Occupations
+WP606EW0103,Count,Person,7 Sales and customer service occupations;     72 Customer service occupations;         722 Customer Service Managers and Supervisors
+WP606EW0104,Count,Person,"8 Process, plant and machine operatives"
+WP606EW0105,Count,Person,"8 Process, plant and machine operatives;     81 Process, plant and machine operatives"
+WP606EW0106,Count,Person,"8 Process, plant and machine operatives;     81 Process, plant and machine operatives;         811 Process Operatives"
+WP606EW0107,Count,Person,"8 Process, plant and machine operatives;     81 Process, plant and machine operatives;         812 Plant and Machine Operatives"
+WP606EW0108,Count,Person,"8 Process, plant and machine operatives;     81 Process, plant and machine operatives;         813 Assemblers and Routine Operatives"
+WP606EW0109,Count,Person,"8 Process, plant and machine operatives;     81 Process, plant and machine operatives;         814 Construction Operatives"
+WP606EW0110,Count,Person,"8 Process, plant and machine operatives;     82 Transport and mobile machine drivers and operatives"
+WP606EW0111,Count,Person,"8 Process, plant and machine operatives;     82 Transport and mobile machine drivers and operatives;         821 Road Transport Drivers"
+WP606EW0112,Count,Person,"8 Process, plant and machine operatives;     82 Transport and mobile machine drivers and operatives;         822 Mobile Machine Drivers and Operatives"
+WP606EW0113,Count,Person,"8 Process, plant and machine operatives;     82 Transport and mobile machine drivers and operatives;         823 Other Drivers and Transport Operatives"
+WP606EW0114,Count,Person,9 Elementary occupations
+WP606EW0115,Count,Person,9 Elementary occupations;     91 Elementary trades and related occupations
+WP606EW0116,Count,Person,9 Elementary occupations;     91 Elementary trades and related occupations;         911 Elementary Agricultural Occupations
+WP606EW0117,Count,Person,9 Elementary occupations;     91 Elementary trades and related occupations;         912 Elementary Construction Occupations
+WP606EW0118,Count,Person,9 Elementary occupations;     91 Elementary trades and related occupations;         913 Elementary Process Plant Occupations
+WP606EW0119,Count,Person,9 Elementary occupations;     92 Elementary administration and service occupations
+WP606EW0120,Count,Person,9 Elementary occupations;     92 Elementary administration and service occupations;         921 Elementary Administration Occupations
+WP606EW0121,Count,Person,9 Elementary occupations;     92 Elementary administration and service occupations;         923 Elementary Cleaning Occupations
+WP606EW0122,Count,Person,9 Elementary occupations;     92 Elementary administration and service occupations;         924 Elementary Security Occupations
+WP606EW0123,Count,Person,9 Elementary occupations;     92 Elementary administration and service occupations;         925 Elementary Sales Occupations
+WP606EW0124,Count,Person,9 Elementary occupations;     92 Elementary administration and service occupations;         926 Elementary Storage Occupations
+WP606EW0125,Count,Person,9 Elementary occupations;     92 Elementary administration and service occupations;         927 Other Elementary Services Occupations

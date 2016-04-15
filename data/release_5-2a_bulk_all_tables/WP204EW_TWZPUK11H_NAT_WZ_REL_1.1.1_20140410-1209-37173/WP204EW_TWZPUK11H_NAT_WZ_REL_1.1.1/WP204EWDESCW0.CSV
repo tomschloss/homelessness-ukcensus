@@ -1,0 +1,104 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP204EW0001,Count,Person,Pob categori: Prif iaith
+WP204EW0002,Count,Person,Saesneg (Cymraeg neu Saesneg yng Nghymru)
+WP204EW0003,Count,Person,Cymraeg (yn Lloegr yn unig)
+WP204EW0004,Count,Person,Ieithoedd eraill y DU: Cyfanswm
+WP204EW0005,Count,Person,Ieithoedd eraill y DU: Gaeleg (Gwyddeleg)
+WP204EW0006,Count,Person,Ieithoedd eraill y DU: Gaeleg (yr Alban)
+WP204EW0007,Count,Person,Ieithoedd eraill y DU: Gaeleg Ynys Manaw
+WP204EW0008,Count,Person,Ieithoedd eraill y DU: Gaeleg (Heb ei nodi fel arall)
+WP204EW0009,Count,Person,Ieithoedd eraill y DU: Cernyweg
+WP204EW0010,Count,Person,Ieithoedd eraill y DU: Sgoteg
+WP204EW0011,Count,Person,Ieithoedd eraill y DU: Ieithoedd Sipsiwn/Teithwyr
+WP204EW0012,Count,Person,Ffrangeg
+WP204EW0013,Count,Person,Portiwgaleg
+WP204EW0014,Count,Person,Sbaeneg
+WP204EW0015,Count,Person,Iaith Ewropeaidd arall (UE): Cyfanswm
+WP204EW0016,Count,Person,Iaith Ewropeaidd arall (UE): Eidaleg
+WP204EW0017,Count,Person,Iaith Ewropeaidd arall (UE): Almaeneg
+WP204EW0018,Count,Person,Iaith Ewropeaidd arall (UE): Pwyleg
+WP204EW0019,Count,Person,Iaith Ewropeaidd arall (UE): Slofaceg
+WP204EW0020,Count,Person,Iaith Ewropeaidd arall (UE): Tsieceg
+WP204EW0021,Count,Person,Iaith Ewropeaidd arall (UE): Rwmaneg
+WP204EW0022,Count,Person,Iaith Ewropeaidd arall (UE): Lithwaneg
+WP204EW0023,Count,Person,Iaith Ewropeaidd arall (UE): Latfieg
+WP204EW0024,Count,Person,Iaith Ewropeaidd arall (UE): Hwngareg
+WP204EW0025,Count,Person,Iaith Ewropeaidd arall (UE): Bwlgareg
+WP204EW0026,Count,Person,Iaith Ewropeaidd arall (UE): Groeg
+WP204EW0027,Count,Person,Iaith Ewropeaidd arall (UE): Iseldireg
+WP204EW0028,Count,Person,Iaith Ewropeaidd arall (UE): Swedeg
+WP204EW0029,Count,Person,Iaith Ewropeaidd arall (UE): Daneg
+WP204EW0030,Count,Person,Iaith Ewropeaidd arall (UE): Ffinneg
+WP204EW0031,Count,Person,Iaith Ewropeaidd arall (UE): Estoneg
+WP204EW0032,Count,Person,Iaith Ewropeaidd arall (UE): Slofeneg
+WP204EW0033,Count,Person,Iaith Ewropeaidd arall (UE): Malteg
+WP204EW0034,Count,Person,Iaith Ewropeaidd arall (UE): Unrhyw iaith Ewropeaidd arall (UE)
+WP204EW0035,Count,Person,Iaith Ewropeaidd arall (nad yw o'r UE): Cyfanswm
+WP204EW0036,Count,Person,Iaith Ewropeaidd arall (nad yw o'r UE): Albaneg
+WP204EW0037,Count,Person,Iaith Ewropeaidd arall (nad yw o'r UE): Serbeg/Croateg/Bosnieg
+WP204EW0038,Count,Person,Iaith Ewropeaidd arall (nad yw o'r UE): Wcreineg
+WP204EW0039,Count,Person,Iaith Ewropeaidd arall (nad yw o'r UE): Unrhyw iaith arall o Ddwyrain Ewrop (nad yw o'r UE)
+WP204EW0040,Count,Person,Iaith Ewropeaidd arall (nad yw o'r UE): Iaith o Ogledd Ewrop (nad yw o'r UE)
+WP204EW0041,Count,Person,Iaith Ewropeaidd arall (nad yw'n iaith genedlaethol): Cyfanswm
+WP204EW0042,Count,Person,Iaith Ewropeaidd arall (nad yw'n iaith genedlaethol): Iaith Romani (unrhyw un)
+WP204EW0043,Count,Person,Iaith Ewropeaidd arall (nad yw'n iaith genedlaethol): Iddew-Almaeneg
+WP204EW0044,Count,Person,Rwseg
+WP204EW0045,Count,Person,Tyrceg
+WP204EW0046,Count,Person,Arabeg
+WP204EW0047,Count,Person,Iaith Gorllewin/Canol Asia: Cyfanswm
+WP204EW0048,Count,Person,Iaith Gorllewin/Canol Asia: Hebraeg
+WP204EW0049,Count,Person,Iaith Gorllewin/Canol Asia: Cwrdeg
+WP204EW0050,Count,Person,Iaith Gorllewin/Canol Asia: Perseg/Ffarsi
+WP204EW0051,Count,Person,Iaith Gorllewin/Canol Asia: Pashto
+WP204EW0052,Count,Person,Iaith Gorllewin/Canol Asia: Iaith Gorllewin/Canol Asia (pob un arall)
+WP204EW0053,Count,Person,Iaith De Asia: Cyfanswm
+WP204EW0054,Count,Person,Iaith De Asia: Wrdw
+WP204EW0055,Count,Person,Iaith De Asia: Hindi
+WP204EW0056,Count,Person,Iaith De Asia: Pwnjabeg
+WP204EW0057,Count,Person,Iaith De Asia: Pahari Pacistanaidd (gyda Mirpuri a Potwari)
+WP204EW0058,Count,Person,Iaith De Asia: Bengaleg (gyda Sylheti a Chatgaya)
+WP204EW0059,Count,Person,Iaith De Asia: Gwjarati
+WP204EW0060,Count,Person,Iaith De Asia: Marati
+WP204EW0061,Count,Person,Iaith De Asia: Telwgw
+WP204EW0062,Count,Person,Iaith De Asia: Tamil
+WP204EW0063,Count,Person,Iaith De Asia: Malaialam
+WP204EW0064,Count,Person,Iaith De Asia: Sinhala
+WP204EW0065,Count,Person,Iaith De Asia: Nepaleg
+WP204EW0066,Count,Person,Iaith De Asia: Iaith De Asia (pob un arall)
+WP204EW0067,Count,Person,Iaith Dwyrain Asia: Cyfanswm
+WP204EW0068,Count,Person,Iaith Dwyrain Asia: Tsieinëeg Mandarin
+WP204EW0069,Count,Person,Iaith Dwyrain Asia: Tsieinëeg Cantoneg
+WP204EW0070,Count,Person,Iaith Dwyrain Asia: Pob iaith Tsieinëeg arall
+WP204EW0071,Count,Person,Iaith Dwyrain Asia: Siapaneeg
+WP204EW0072,Count,Person,Iaith Dwyrain Asia: Corëeg
+WP204EW0073,Count,Person,Iaith Dwyrain Asia: Fietnameg
+WP204EW0074,Count,Person,Iaith Dwyrain Asia: Thai
+WP204EW0075,Count,Person,Iaith Dwyrain Asia: Maleieg
+WP204EW0076,Count,Person,Iaith Dwyrain Asia: Tagalog/Ffilipineg
+WP204EW0077,Count,Person,Iaith Dwyrain Asia: Iaith Dwyrain Asia (pob un arall)
+WP204EW0078,Count,Person,Iaith Gefnforol/Awstralia (unrhyw un)
+WP204EW0079,Count,Person,Iaith Gogledd/De America (unrhyw un)
+WP204EW0080,Count,Person,Creoliaith Caribïaidd: Cyfanswm
+WP204EW0081,Count,Person,Creoliaith Caribïaidd: Creoliaith Caribïaidd (yn seiliedig ar Saesneg)
+WP204EW0082,Count,Person,Creoliaith Caribïaidd: Creoliaith Caribïaidd (pob un arall)
+WP204EW0083,Count,Person,Iaith Affricanaidd: Cyfanswm
+WP204EW0084,Count,Person,Iaith Affricanaidd: Amhareg
+WP204EW0085,Count,Person,Iaith Affricanaidd: Tigrineg
+WP204EW0086,Count,Person,Iaith Affricanaidd: Somaleg
+WP204EW0087,Count,Person,Iaith Affricanaidd: Krio
+WP204EW0088,Count,Person,Iaith Affricanaidd: Acan
+WP204EW0089,Count,Person,Iaith Affricanaidd: Iorwba
+WP204EW0090,Count,Person,Iaith Affricanaidd: Igbo
+WP204EW0091,Count,Person,Iaith Affricanaidd: Swahili/Kiswahili
+WP204EW0092,Count,Person,Iaith Affricanaidd: Lwganda
+WP204EW0093,Count,Person,Iaith Affricanaidd: Lingala
+WP204EW0094,Count,Person,Iaith Affricanaidd: Shona
+WP204EW0095,Count,Person,Iaith Affricanaidd: Affricaneg
+WP204EW0096,Count,Person,Iaith Affricanaidd: Unrhyw iaith arall o Nigeria
+WP204EW0097,Count,Person,Iaith Affricanaidd: Iaith Gorllewin Affrica (pob un arall)
+WP204EW0098,Count,Person,Iaith Affricanaidd: Iaith Affricanaidd (pob un arall)
+WP204EW0099,Count,Person,Iaith arwyddion: Cyfanswm
+WP204EW0100,Count,Person,Iaith arwyddion: Iaith Arwyddion Prydain
+WP204EW0101,Count,Person,Iaith arwyddion: Iaith arwyddion (pob un arall)
+WP204EW0102,Count,Person,Iaith arwyddion: Unrhyw System cyfathrebu ag arwyddion
+WP204EW0103,Count,Person,Iaith arall

@@ -1,0 +1,14 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP702EW0001,Count,Unigolyn,Pob categori: Pellter teithio i'r gwaith
+WP702EW0002,Count,Unigolyn,Llai na 2km
+WP702EW0003,Count,Unigolyn,2km i lai na 5km
+WP702EW0004,Count,Unigolyn,5km i lai na 10km
+WP702EW0005,Count,Unigolyn,10km i lai nag 20km
+WP702EW0006,Count,Unigolyn,20km i lai na 30km
+WP702EW0007,Count,Unigolyn,30km i lai na 40km
+WP702EW0008,Count,Unigolyn,40km i lai na 60km
+WP702EW0009,Count,Unigolyn,60km a throsodd
+WP702EW0010,Count,Unigolyn,Gweithio’n bennaf gartref neu o’r cartref
+WP702EW0011,Count,Unigolyn,Dim gweithle penodol
+WP702EW0012,Swm,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Cyfanswm y pellter (km)
+WP702EW0013,Cyfartaledd,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Pellter cyfartalog (km)

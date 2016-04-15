@@ -1,0 +1,29 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP605EW0001,Count,Person,All categories: Industry
+WP605EW0002,Count,Person,"A Agriculture, forestry and fishing"
+WP605EW0003,Count,Person,B Mining and quarrying
+WP605EW0004,Count,Person,C Manufacturing
+WP605EW0005,Count,Person,"C10-12 Manufacturing: Food, beverages and tobacco"
+WP605EW0006,Count,Person,"C13-15 Manufacturing: Textiles, wearing apparel and leather and related products"
+WP605EW0007,Count,Person,"C16,17 Manufacturing: Wood, paper and paper products"
+WP605EW0008,Count,Person,"C19-22 Manufacturing: Chemicals, chemical products, rubber and plastic"
+WP605EW0009,Count,Person,C23-25 Manufacturing: Low tech
+WP605EW0010,Count,Person,C26-30 Manufacturing: High tech
+WP605EW0011,Count,Person,"C18, 31, 32 Manufacturing: Other"
+WP605EW0012,Count,Person,"D Electricity, gas, steam and air conditioning supply"
+WP605EW0013,Count,Person,"E Water supply; sewerage, waste management and remediation activities"
+WP605EW0014,Count,Person,F Construction
+WP605EW0015,Count,Person,G Wholesale and retail trade; repair of motor vehicles and motor cycles
+WP605EW0016,Count,Person,H Transport and storage
+WP605EW0017,Count,Person,I Accommodation and food service activities
+WP605EW0018,Count,Person,J Information and communication
+WP605EW0019,Count,Person,K Financial and insurance activities
+WP605EW0020,Count,Person,L Real estate activities
+WP605EW0021,Count,Person,"M Professional, scientific and technical activities"
+WP605EW0022,Count,Person,N Administrative and support service activities
+WP605EW0023,Count,Person,O Public administration and defence; compulsory social security
+WP605EW0024,Count,Person,P Education
+WP605EW0025,Count,Person,Q Human health and social work activities
+WP605EW0026,Count,Person,"R,S Arts, entertainment and recreation; other service activities"
+WP605EW0027,Count,Person,T Activities of households as employers; undifferentiated goods - and services - producing activities of households for own use
+WP605EW0028,Count,Person,U Activities of extraterritorial organisations and bodies

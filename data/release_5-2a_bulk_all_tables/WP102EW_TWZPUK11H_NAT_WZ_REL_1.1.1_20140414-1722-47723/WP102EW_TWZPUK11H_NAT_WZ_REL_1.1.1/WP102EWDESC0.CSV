@@ -1,0 +1,4 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP102EW0001,Count,Person,All usual residents aged 16 to 74 (Workplace population)
+WP102EW0002,Sum,Area (hectares),Area (Hectares)
+WP102EW0003,Ratio,"Represents code used for SDMX series key completeness, as this codelist is not meaningfully used, for reason of concatenation, axis derivations etc",Density (number of persons per hectare)

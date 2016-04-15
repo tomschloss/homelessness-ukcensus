@@ -1,0 +1,6 @@
+ColumnVariableCode,ColumnVariableMeasurementUnit,ColumnVariableStatisticalUnit,ColumnVariableDescription
+WP613EW0001,Count,Person,All categories: Approximated social grade
+WP613EW0002,Count,Person,AB Higher and intermediate managerial/administrative/professional occupations
+WP613EW0003,Count,Person,"C1 Supervisory, clerical and junior managerial/administrative/professional occupations"
+WP613EW0004,Count,Person,C2 Skilled manual occupations
+WP613EW0005,Count,Person,DE Semi-skilled and unskilled manual occupations; unemployed and lowest grade occupations
